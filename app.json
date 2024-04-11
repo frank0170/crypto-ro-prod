@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "ShapeMentor",
-    "slug": "ShapeMentor",
-    "version": "1.0.0",
+    "slug": "fitness-app-prod",
+        "version": "1.0.7",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,17 +14,29 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "extra": {
+      "eas": {
+        "projectId": "e288bd2f-e388-4ac6-b59b-0fcbf60ddbd6"
+      }
+    },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fitnessappprod"
+
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.fitnessappprod",
+      "versionCode": 17
+
     },
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
+  },
+  "name": "fitness-app-prod"
+
 }
