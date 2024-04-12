@@ -12,18 +12,10 @@ import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 import Home from "./components/pages/Home/HomeContainer";
 import HomeIcon from "./components/icons/homeIcon";
-import ExercisePreview from "./components/pages/Home/WorkoutsHome/ExerciseDetails";
-
-import Workouts from "./components/pages/Workouts/WorkoutsNavigation";
-import WorkoutsIcon from "./components/icons/workoutsIcon";
-
-import Profile from "./components/pages/Profile/ProfileContainer";
-import ProfileIcon from "./components/icons/profileIcon";
-
-import Login from "./components/pages/LogIn/LogInNavigation";
-
-import Randomizer from "./components/pages/Randomizer/RandomizerNavigation";
-import RandomizerIcon from "./components/icons/randomizer";
+import TopCrypto from "./components/icons/topCryptoIcon";
+import LearnIcon from "./components/icons/learnIcon";
+import PodcastIcon from "./components/icons/podcastIcon";
+import BitcoinIcon from "./components/icons/bitcoinIcon";
 
 const Tab = createBottomTabNavigator();
 
@@ -32,36 +24,45 @@ const AppNavigation = () => {
     <NavigationContainer>
       <Tab.Navigator
         screenOptions={({ route }) => ({
-          tabBarActiveTintColor: "#FF8036",
-          tabBarInactiveTintColor: "#6B7280",
           tabBarIcon: ({ focused, color, size }) => {
             let iconComponent;
 
             if (route.name === "Home") {
               iconComponent = <HomeIcon isActive={focused} />;
-            } else if (route.name === "Exercises") {
-              iconComponent = <WorkoutsIcon isActive={focused} />;
-            } else if (route.name === "Randomizer") {
-              iconComponent = <RandomizerIcon isActive={focused} />;
-            } else if (route.name === "Profile") {
-              iconComponent = <ProfileIcon isActive={focused} />;
+            } else if (route.name === "Learn") {
+              iconComponent = <LearnIcon isActive={focused} />;
+            } else if (route.name === "Podcast") {
+              iconComponent = <PodcastIcon isActive={focused} />;
+            } else if (route.name === "Top crypto") {
+              iconComponent = <TopCrypto isActive={focused} />;
+            } else if (route.name === "Bitcoin") {
+              iconComponent = <BitcoinIcon isActive={focused} />;
             }
 
             return iconComponent;
           },
-
           headerShown: false,
+          tabBarLabel: () => null, // Remove labels
           tabBarStyle: {
-            backgroundColor: "#24262b",
-            border: "1px solid #24262b",
+            backgroundColor: "#19102B",
+            border: "1px solid #312745",
+            height: 85, // Adjust the height to make the icons bigger
           },
         })}
+        tabBarOptions={{
+          activeTintColor: "#6b0ecf",
+          inactiveTintColor: "#6B7280",
+          style: {},
+          labelStyle: {
+            display: "none", // Remove label
+          },
+        }}
       >
-        {/* pus pt development */}
         <Tab.Screen name="Home" component={Home} />
-        <Tab.Screen name="Exercises" component={Workouts} />
-        <Tab.Screen name="Randomizer" component={Randomizer} />
-        <Tab.Screen name="Profile" component={Login} />
+        <Tab.Screen name="Learn" component={Home} />
+        <Tab.Screen name="Bitcoin" component={Home} />
+        <Tab.Screen name="Podcast" component={Home} />
+        <Tab.Screen name="Top crypto" component={Home} />
       </Tab.Navigator>
     </NavigationContainer>
   );

@@ -1,20 +1,12 @@
+import { Text, View } from "react-native";
 import HomeView from "./HomeView";
-
-import chestImage from "../../public/chest.png";
+import chestImage from "../../public/eth.png";
 import backImage from "../../public/back.png";
 import shouldersImage from "../../public/shoulders.png";
 
-import fullBody from "../../public/fullBody.png";
-import intenseJumping from "../../public/intenseJumping.png";
-import strengthBand from "../../public/strengthBand.png";
-import totalBody from "../../public/totalBody.png";
-import { useAuth } from "../../context/loginContext";
-
 const HomeContainer = () => {
-  const { userData } = useAuth();
-
   const person = {
-    name: "Guest",
+    name: "Lucian",
     daysOfWeek: [
       { name: "Sun", size: 24 },
       { name: "Mon", size: 35 },
@@ -30,63 +22,98 @@ const HomeContainer = () => {
     cards: [
       {
         image: chestImage,
-        title: "Massive Upper Body",
-        category: "Chest & Shoulders",
+        title: `După 365 de zile de la ‘Merge’, Ethereum se luptă cu probleme de centralizare`,
+        category: 6,
         link: "blank",
       },
+    ],
+    cards2: [
       {
-        image: backImage,
-        title: "Back Workout",
-        category: "Back & Lats",
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 7,
         link: "blank",
-      },
-      {
-        image: shouldersImage,
-        title: "Shoulder Workout",
-        category: "Shoulders",
-        link: "blank",
+        category: "Stiri",
       },
       {
         image: chestImage,
-        title: "Massive Upper Body",
-        category: "Chest & Shoulders",
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
         link: "blank",
+        category: "Stiri",
       },
       {
-        image: backImage,
-        title: "Back Workout",
-        category: "Back & Lats",
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
         link: "blank",
+        category: "Stiri",
       },
       {
-        image: shouldersImage,
-        title: "Shoulder Workout",
-        category: "Shoulders",
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
         link: "blank",
+        category: "Stiri",
+      },
+      {
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
+        link: "blank",
+        category: "Stiri",
+      },
+      {
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
+        link: "blank",
+        category: "Stiri",
+      },
+      {
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
+        link: "blank",
+        category: "Stiri",
+      },
+      {
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
+        link: "blank",
+        category: "Stiri",
+      },
+      {
+        image: chestImage,
+        title: `Bitcoin se apropie de $27,000 înainte de întâlnirea FOMC`,
+        time: 6,
+        link: "blank",
+        category: "Stiri",
       },
     ],
     workouts: [
       {
         name: "Strength with Band",
-        image: strengthBand,
+        image: chestImage,
         kcal: 125,
         time: 30,
       },
       {
         name: "Total Body Training",
-        image: totalBody,
+        image: chestImage,
         kcal: 145,
         time: 25,
       },
       {
         name: "Intense Jumping Jacks",
-        image: intenseJumping,
+        image: chestImage,
         kcal: 230,
         time: 45,
       },
       {
         name: "Full Body Cardio Workout",
-        image: fullBody,
+        image: chestImage,
         kcal: 250,
         time: 50,
       },
