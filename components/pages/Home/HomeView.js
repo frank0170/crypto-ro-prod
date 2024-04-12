@@ -4,7 +4,7 @@ import HomePart2 from "./HomePart2";
 import HomePart3 from "./HomePart3";
 import { ScrollView } from "react-native-gesture-handler";
 
-const HomeView = ({ person, sampleData }) => {
+const HomeView = ({ person, sampleData, navigation }) => {
   return (
     <ScrollView
       style={{
@@ -14,7 +14,11 @@ const HomeView = ({ person, sampleData }) => {
     >
       <HomePart1 person={person} />
       <HomePart2 sampleData={sampleData} />
-      <HomePart3 person={person} sampleData={sampleData} />
+      <HomePart3
+        person={person}
+        sampleData={sampleData}
+        navigation={navigation}
+      />
     </ScrollView>
   );
 };

@@ -10,7 +10,7 @@ import { SignupProvider } from "./components/context/signupContext";
 
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 
-import Home from "./components/pages/Home/HomeContainer";
+import Home from "./components/pages/Home/HomeNavigator";
 import HomeIcon from "./components/icons/homeIcon";
 import TopCrypto from "./components/icons/topCryptoIcon";
 import LearnIcon from "./components/icons/learnIcon";

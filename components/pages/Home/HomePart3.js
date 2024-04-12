@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   Text,
   View,
@@ -7,91 +7,76 @@ import {
   ScrollView,
   StyleSheet,
   Image,
+  FlatList,
+  ActivityIndicator,
 } from "react-native";
 import "./homeStyle.js";
 import { homeStyles } from "./homeStyle.js";
 import chestImage from "../../public/eth.png";
+import { useExerciseContext } from "../../context/exerciseContext.js";
 
-const NewsCard = ({ time, title, category }) => {
+const NewsCard = ({
+  time,
+  title,
+  category,
+  image,
+  setContext,
+  item,
+  navigation,
+}) => {
+  const handleNavigate = (item) => {
+    setContext(item);
+    navigation.navigate("NewsPage");
+  };
   return (
-    <View
-      style={{
-        display: "flex",
-        flexDirection: "row",
-        alignItems: "center",
-        width: 360,
-        height: 120,
-      }}
-    >
-      <Image
-        source={chestImage}
-        style={{ width: 100, height: 100, borderRadius: 12 }}
-      />
+    <TouchableOpacity onPress={() => handleNavigate(item)}>
       <View
         style={{
           display: "flex",
-          flexDirection: "column",
-          justifyContent: "space-between",
-          width: 280,
-          marginLeft: 16,
-          height: 100,
+          flexDirection: "row",
+          alignItems: "center",
+          width: 360,
+          height: 120,
         }}
       >
+        <Image
+          source={image}
+          style={{ width: 100, height: 100, borderRadius: 12 }}
+        />
         <View
           style={{
             display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            width: 46,
-            height: 24,
-            borderRadius: 4,
-            backgroundColor: "#8C38F9",
+            flexDirection: "column",
+            justifyContent: "space-between",
+            width: 280,
+            marginLeft: 16,
+            height: 100,
           }}
         >
-          <Text style={homeStyles.home_3.workoutCard.category2}>
-            {category}
+          <View
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              height: 24,
+              width: 120,
+              borderRadius: 4,
+              backgroundColor: "#8C38F9",
+            }}
+          >
+            <Text style={homeStyles.home_3.workoutCard.category2}>
+              {category}
+            </Text>
+          </View>
+          <View style={{ display: "flex", flexWrap: "wrap" }}>
+            <Text style={homeStyles.home_3.workoutCard.title}>{title}</Text>
+          </View>
+          <Text style={homeStyles.home_3.workoutCard.category}>
+            Acum {time} ore
           </Text>
         </View>
-        <View style={{ display: "flex", flexWrap: "wrap" }}>
-          <Text style={homeStyles.home_3.workoutCard.title}>{title}</Text>
-        </View>
-        <Text style={homeStyles.home_3.workoutCard.category}>
-          Acum {time} ore
-        </Text>
       </View>
-    </View>
-  );
-};
-
-const WorkoutCard = ({ image, name, kcal, time }) => {
-  const cardStyle = homeStyles.home_3.workoutCard.card;
-
-  return (
-    <ImageBackground source={image} style={cardStyle}>
-      <View style={{ padding: 20 }}>
-        <View
-          style={{
-            flexDirection: "row",
-            flexWrap: "wrap",
-            alignItems: "flex-end",
-          }}
-        >
-          <Text style={homeStyles.home_3.workoutCard.title}>{name}</Text>
-        </View>
-        <View style={homeStyles.home_3.workoutCard.secondaryTextPart}>
-          <View style={homeStyles.home_3.workoutCard.secondaryTextPartDiv}>
-            <Text style={homeStyles.home_3.workoutCard.secondaryTextPartText}>
-              {/* <CaloriesIconSmall /> {kcal} kcal */}
-            </Text>
-          </View>
-          <View style={homeStyles.home_3.workoutCard.secondaryTextPartDiv}>
-            <Text style={homeStyles.home_3.workoutCard.secondaryTextPartText}>
-              {/* <TimeSmallIcon /> {time} min */}
-            </Text>
-          </View>
-        </View>
-      </View>
-    </ImageBackground>
+    </TouchableOpacity>
   );
 };
 
@@ -133,7 +118,55 @@ const NextCatgory = () => {
   );
 };
 
-const HomePart2 = ({ person, sampleData }) => {
+const fetchItems = async (page) => {
+  const response = await fetch(`https://crypto.ro/feed/?paged=${page}`);
+  const data = await response.text();
+  const parser = new DOMParser();
+  const xmlDoc = parser.parseFromString(data, "text/xml");
+  const items = xmlDoc.getElementsByTagName("item");
+  const news = Array.from(items).map((item) => {
+    const description = item.getElementsByTagName("description")[0].textContent;
+
+    // Try to extract image from <media:content> or <enclosure>
+    let imageUrl = "";
+    const mediaContent = item.getElementsByTagName("media:content")[0];
+    const enclosure = item.getElementsByTagName("enclosure")[0];
+
+    if (mediaContent) {
+      imageUrl = mediaContent.getAttribute("url");
+    } else if (enclosure) {
+      imageUrl = enclosure.getAttribute("url");
+    } else {
+      // Fallback to extracting from description (parse as HTML to find <img> tag)
+      const htmlParser = new DOMParser();
+      const htmlDoc = htmlParser.parseFromString(description, "text/html");
+      const img = htmlDoc.querySelector("img");
+      if (img) {
+        imageUrl = img.src;
+      }
+    }
+    return {
+      title: item.getElementsByTagName("title")[0].textContent,
+      link: item.getElementsByTagName("link")[0].textContent,
+      image: imageUrl,
+      comments: item.getElementsByTagName("comments")[0].textContent,
+      pubDate: item.getElementsByTagName("pubDate")[0].textContent,
+      creator: item.getElementsByTagName("dc:creator")[0].textContent,
+      description: description,
+      content: item.getElementsByTagName("content:encoded")[0].textContent,
+      categories: Array.from(item.getElementsByTagName("category")).map(
+        (c) => c.textContent
+      ),
+    };
+  });
+  return news;
+};
+
+const HomePart2 = ({ person, sampleData, navigation }) => {
+  const { setExerciseData, exerciseData } = useExerciseContext();
+
+  console.log("ex", exerciseData);
+
   const categories = [
     "Toate",
     "Stiri",
@@ -144,6 +177,42 @@ const HomePart2 = ({ person, sampleData }) => {
     "Cardano",
     "Solana",
   ];
+
+  const [items, setItems] = useState([]);
+  const [page, setPage] = useState(1);
+  const [loading, setLoading] = useState(false);
+
+  const loadMoreItems = async () => {
+    if (loading) return; // Prevent multiple loads
+    setLoading(true);
+    try {
+      const newItems = await fetchItems(page);
+      setItems((prevItems) => [...prevItems, ...newItems]); // Append new items
+      setPage((prevPage) => prevPage + 1); // Increment page
+    } catch (error) {
+      console.error("Failed to fetch items:", error);
+    }
+    setLoading(false);
+  };
+
+  useEffect(() => {
+    loadMoreItems();
+  }, []);
+
+  const renderItem = ({ item }) => (
+    <NewsCard
+      key={item.link} // Don't forget to add a unique key prop for each item
+      image={item.image}
+      time={item.time}
+      title={item.title}
+      category={item.categories[0]}
+      setContext={setExerciseData}
+      item={item}
+      navigation={navigation}
+    />
+  );
+
+  console.log("items", items);
 
   const [selectedCategory, setSelectedCategory] = useState("Toate");
 
@@ -180,22 +249,30 @@ const HomePart2 = ({ person, sampleData }) => {
           />
         ))}
       </ScrollView>
-
-      <ScrollView
-        horizontal={false}
-        showsHorizontalScrollIndicator={false}
-        showsVerticalScrollIndicator={false}
+      <FlatList
+        data={items}
+        renderItem={renderItem}
+        keyExtractor={(item) => item.link}
+        onEndReachedThreshold={0.8}
+        ListFooterComponent={() =>
+          loading ? <ActivityIndicator size="large" color="#0000ff" /> : null
+        }
+      />
+      <TouchableOpacity
+        style={{
+          padding: 15,
+          backgroundColor: "#8C38F9",
+          marginTop: 10,
+          borderRadius: 12,
+          marginBottom: 20,
+        }}
+        onPress={loadMoreItems}
+        disabled={loading}
       >
-        {sampleData.cards2.map((item) => (
-          <NewsCard
-            key={item.id} // Don't forget to add a unique key prop for each item
-            image={item.image}
-            time={item.time}
-            title={item.title}
-            category={item.category}
-          />
-        ))}
-      </ScrollView>
+        <Text style={{ color: "white", textAlign: "center" }}>
+          Incarca mai multe
+        </Text>
+      </TouchableOpacity>
     </View>
   );
 };

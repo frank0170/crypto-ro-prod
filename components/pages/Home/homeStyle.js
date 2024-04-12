@@ -40,7 +40,7 @@ export const homeStyles = StyleSheet.create({
     workoutsStyle: {
       seeAllOff: {
         marginTop: 24,
-        backgroundColor: "#111214",
+        backgroundColor: "#0B0418",
         marginLeft: "24px",
         gap: 16,
       },
@@ -62,9 +62,8 @@ export const homeStyles = StyleSheet.create({
         marginRight: 12,
       },
       cardAll: {
-        width: "100%",
+        width: 380,
         marginBottom: 12,
-        paddingRight: 24,
         height: 224,
         borderRadius: 12,
         borderWidth: 1,
