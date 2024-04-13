@@ -14,7 +14,7 @@ import "./homeStyle.js";
 import { homeStyles } from "./homeStyle.js";
 import chestImage from "../../public/eth.png";
 import { useExerciseContext } from "../../context/exerciseContext.js";
-
+import { dateConverter } from "../../utils/dateConverter.js";
 const NewsCard = ({
   time,
   title,
@@ -72,7 +72,7 @@ const NewsCard = ({
             <Text style={homeStyles.home_3.workoutCard.title}>{title}</Text>
           </View>
           <Text style={homeStyles.home_3.workoutCard.category}>
-            Acum {time} ore
+          Acum {dateConverter(item.pubDate)} 
           </Text>
         </View>
       </View>

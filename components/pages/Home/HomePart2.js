@@ -9,8 +9,9 @@ import {
 } from "react-native";
 import "./homeStyle.js";
 import { homeStyles } from "./homeStyle.js";
+import { dateConverter } from "../../utils/dateConverter.js";
 
-const FitnessCard = ({ image, title, category, link, all }) => {
+const FitnessCard = ({ image, title, category, link, all, pubDate }) => {
   const cardStyle = homeStyles.home_2.imageCard.cardAll;
 
   return (
@@ -21,7 +22,7 @@ const FitnessCard = ({ image, title, category, link, all }) => {
             <Text style={homeStyles.home_2.imageCard.title}>{title}</Text>
           </View>
           <Text style={homeStyles.home_2.imageCard.category}>
-            Acum {category} ore
+          Acum {dateConverter(pubDate)} 
           </Text>
         </View>
       </ImageBackground>
@@ -109,6 +110,7 @@ const HomePart2 = ({ person, sampleData }) => {
             title={item.title}
             category={item.category}
             all={false}
+            pubDate={item.pubDate}
           />
         ))}
       </ScrollView>

@@ -11,8 +11,10 @@ import { SignupProvider } from "./components/context/signupContext";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 import Home from "./components/pages/Home/HomeNavigator";
+import News from "./components/pages/News/HomeNavigator";
+import TopCrypto from "./components/pages/TopCrypto/HomeNavigator";
 import HomeIcon from "./components/icons/homeIcon";
-import TopCrypto from "./components/icons/topCryptoIcon";
+import TopCryptoIcon from "./components/icons/topCryptoIcon";
 import LearnIcon from "./components/icons/learnIcon";
 import PodcastIcon from "./components/icons/podcastIcon";
 import BitcoinIcon from "./components/icons/bitcoinIcon";
@@ -34,7 +36,7 @@ const AppNavigation = () => {
             } else if (route.name === "Podcast") {
               iconComponent = <PodcastIcon isActive={focused} />;
             } else if (route.name === "Top crypto") {
-              iconComponent = <TopCrypto isActive={focused} />;
+              iconComponent = <TopCryptoIcon isActive={focused} />;
             } else if (route.name === "Bitcoin") {
               iconComponent = <BitcoinIcon isActive={focused} />;
             }
@@ -59,10 +61,10 @@ const AppNavigation = () => {
         }}
       >
         <Tab.Screen name="Home" component={Home} />
-        <Tab.Screen name="Learn" component={Home} />
+        <Tab.Screen name="Learn" component={News} />
         <Tab.Screen name="Bitcoin" component={Home} />
         <Tab.Screen name="Podcast" component={Home} />
-        <Tab.Screen name="Top crypto" component={Home} />
+        <Tab.Screen name="Top crypto" component={TopCrypto} />
       </Tab.Navigator>
     </NavigationContainer>
   );
