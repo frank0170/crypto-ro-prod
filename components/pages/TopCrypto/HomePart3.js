@@ -16,60 +16,161 @@ import chestImage from "../../public/eth.png";
 import { useExerciseContext } from "../../context/exerciseContext.js";
 import HomePart2 from "./HomePart2";
 import { dateConverter } from "../../utils/dateConverter.js";
+import metadata from "../../utils/metadata.json";
 
 const Settings = () => {
-  return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M9 5C10.3062 5 11.4174 5.83477 11.8293 6.99992H20C20.5523 6.99992 21 7.44763 21 7.99992C21 8.5522 20.5523 8.99992 20 8.99992H11.8293C11.4175 10.1652 10.3062 11 9 11C7.69374 11 6.58248 10.1652 6.17067 8.99992H4C3.44772 8.99992 3 8.5522 3 7.99992C3 7.44763 3.44772 6.99992 4 6.99992H6.17073C6.58259 5.83477 7.69381 5 9 5ZM10 8C10 7.44772 9.55228 7 9 7C8.44771 7 8 7.44772 8 8C8 8.55229 8.44771 9 9 9C9.55228 9 10 8.55229 10 8Z" fill="#988EA9"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M15 13C16.3062 13 17.4174 13.8348 17.8293 14.9999H20C20.5523 14.9999 21 15.4476 21 15.9999C21 16.5522 20.5523 16.9999 20 16.9999H17.8293C17.4175 18.1652 16.3062 19 15 19C13.6937 19 12.5825 18.1652 12.1707 16.9999H4.00002C3.44774 16.9999 3.00002 16.5522 3.00002 15.9999C3.00002 15.4476 3.44774 14.9999 4.00002 14.9999H12.1707C12.5826 13.8348 13.6938 13 15 13ZM16 16C16 15.4477 15.5523 15 15 15C14.4477 15 14 15.4477 14 16C14 16.5523 14.4477 17 15 17C15.5523 17 16 16.5523 16 16Z" fill="#988EA9"/>
-  </svg>
-  )
-}
+  return (
+    <svg
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M9 5C10.3062 5 11.4174 5.83477 11.8293 6.99992H20C20.5523 6.99992 21 7.44763 21 7.99992C21 8.5522 20.5523 8.99992 20 8.99992H11.8293C11.4175 10.1652 10.3062 11 9 11C7.69374 11 6.58248 10.1652 6.17067 8.99992H4C3.44772 8.99992 3 8.5522 3 7.99992C3 7.44763 3.44772 6.99992 4 6.99992H6.17073C6.58259 5.83477 7.69381 5 9 5ZM10 8C10 7.44772 9.55228 7 9 7C8.44771 7 8 7.44772 8 8C8 8.55229 8.44771 9 9 9C9.55228 9 10 8.55229 10 8Z"
+        fill="#988EA9"
+      />
+      <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M15 13C16.3062 13 17.4174 13.8348 17.8293 14.9999H20C20.5523 14.9999 21 15.4476 21 15.9999C21 16.5522 20.5523 16.9999 20 16.9999H17.8293C17.4175 18.1652 16.3062 19 15 19C13.6937 19 12.5825 18.1652 12.1707 16.9999H4.00002C3.44774 16.9999 3.00002 16.5522 3.00002 15.9999C3.00002 15.4476 3.44774 14.9999 4.00002 14.9999H12.1707C12.5826 13.8348 13.6938 13 15 13ZM16 16C16 15.4477 15.5523 15 15 15C14.4477 15 14 15.4477 14 16C14 16.5523 14.4477 17 15 17C15.5523 17 16 16.5523 16 16Z"
+        fill="#988EA9"
+      />
+    </svg>
+  );
+};
 
-const NewsCard = ({
+const GreenArrow = () => {
+  return (
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 16 16"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M12.1243 10.3041L7.99951 6.17932L3.87471 10.3041C3.83405 10.3448 3.79018 10.3804 3.74398 10.4109C3.42051 10.6244 2.98098 10.5888 2.69618 10.3041C2.37078 9.97869 2.37078 9.45103 2.69618 9.12556L7.41025 4.41155C7.42978 4.39202 7.45018 4.37355 7.47138 4.3562C7.61965 4.2347 7.80611 4.16748 7.99951 4.16748C8.22051 4.16748 8.43245 4.25527 8.58878 4.41155L13.3028 9.12556C13.6282 9.45103 13.6282 9.97869 13.3028 10.3041C13.2621 10.3448 13.2183 10.3804 13.1721 10.4109C12.8486 10.6244 12.409 10.5888 12.1243 10.3041Z"
+        fill="#1AB664"
+      />
+    </svg>
+  );
+};
 
-  item,
-  navigation,
-}) => {
+const RedArrow = () => {
+  return (
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 16 16"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3.87571 5.69591L8.00049 9.82068L12.1253 5.69591C12.166 5.65524 12.2098 5.61964 12.256 5.58911C12.5795 5.37557 13.019 5.41117 13.3038 5.69591C13.6292 6.02131 13.6292 6.54897 13.3038 6.87444L8.58975 11.5884C8.57022 11.608 8.54982 11.6264 8.52862 11.6438C8.38035 11.7653 8.19389 11.8325 8.00049 11.8325C7.77949 11.8325 7.56755 11.7447 7.41122 11.5884L2.6972 6.87444C2.37177 6.54897 2.37177 6.02131 2.6972 5.69591C2.73788 5.65524 2.78172 5.61964 2.82793 5.58911C3.15139 5.37557 3.59095 5.41117 3.87571 5.69591Z"
+        fill="#E33434"
+      />
+    </svg>
+  );
+};
+
+const NewsCard = ({ item, navigation }) => {
   const handleNavigate = (item) => {
     setContext(item);
     navigation.navigate("NewsPage");
   };
   return (
-    <TouchableOpacity style={{marginBottom: 16 }} onPress={() => handleNavigate(item)}>
+    <TouchableOpacity
+      style={{ marginBottom: 16 }}
+      onPress={() => handleNavigate(item)}
+    >
       <View
         style={{
           display: "flex",
           flexDirection: "row",
           alignItems: "center",
+          justifyContent: "space-between",
           height: 80,
-          borderColor: '#312745',
+          borderColor: "#312745",
           borderWidth: 1,
           borderRadius: 12,
-          backgroundColor: '#19102B'
+          backgroundColor: "#19102B",
         }}
       >
-        <Image
-          source={item.image}
-          style={{ width: 48, height: 48 }}
-        />
         <View
           style={{
             display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            width: 280,
-            marginLeft: 16,
-            height: 40,
+            flexDirection: "row",
+            alignItems: "center",
           }}
         >
-
-          <View style={{ display: "flex", flexWrap: "wrap" }}>
-            <Text style={homeStyles.home_3.workoutCard.title}>{item.name}</Text>
-            <Text style={homeStyles.home_3.workoutCard.category}>
-          {item.slug}         
-           </Text>
+          <Image
+            source={{ uri: metadata[item.id]?.logo }}
+            style={{ width: 48, height: 48, marginLeft: 16 }}
+          />
+          <View
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "space-between",
+              marginLeft: 8,
+              height: 40,
+            }}
+          >
+            <View style={{ display: "flex", flexWrap: "wrap" }}>
+              <Text style={homeStyles.home_3.workoutCard.title}>
+                {item.name}
+              </Text>
+              <Text style={homeStyles.home_3.workoutCard.category}>
+                {item.symbol}
+              </Text>
+            </View>
           </View>
+        </View>
 
+        <View
+          style={{
+            display: "flex",
+            paddingRight: 16,
+            justifyContent: "flex-end",
+            alignItems: "flex-end", // This will align items to the right
+          }}
+        >
+          <Text style={homeStyles.home_3.workoutCard.title}>
+            ${item.quote.USD.price.toFixed(2)}
+          </Text>
+          {item.quote.USD.percent_change_24h.toFixed(2) > 0 ? (
+            <View
+              style={{
+                display: "flex",
+                flexDirection: "row",
+                alignItems: "center",
+                gap: 4,
+              }}
+            >
+              <GreenArrow />
+              <Text style={homeStyles.home_3.workoutCard.categoryGreen}>
+                +{item.quote.USD.percent_change_24h.toFixed(2)}%
+              </Text>
+            </View>
+          ) : (
+            <View
+              style={{
+                display: "flex",
+                flexDirection: "row",
+                alignItems: "center",
+                gap: 4,
+              }}
+            >
+              <RedArrow />
+              <Text style={homeStyles.home_3.workoutCard.categoryRed}>
+                {item.quote.USD.percent_change_24h.toFixed(2)}%
+              </Text>
+            </View>
+          )}
         </View>
       </View>
     </TouchableOpacity>
@@ -161,7 +262,21 @@ const fetchItems = async (page) => {
 const HomePart3 = ({ person, sampleData, navigation }) => {
   const { setExerciseData, exerciseData } = useExerciseContext();
 
-  console.log("ex", exerciseData);
+  const [coins, setCoins] = useState([]);
+
+  const fetchCoins = async () => {
+    const res = await fetch(
+      "https://seahorse-app-c5baz.ondigitalocean.app/top"
+    );
+    const data = await res.json();
+    setCoins(data.data);
+  };
+
+  useEffect(() => {
+    fetchCoins();
+  }, []);
+
+  console.log("ex", coins);
 
   const categories = [
     "Toate",
@@ -169,9 +284,8 @@ const HomePart3 = ({ person, sampleData, navigation }) => {
     "Ethereum",
     "Tether",
     "BNB",
-  "Solana",
+    "Solana",
     "Cardano",
-
   ];
 
   const [items, setItems] = useState([]);
@@ -198,7 +312,6 @@ const HomePart3 = ({ person, sampleData, navigation }) => {
   const renderItem = ({ item }) => (
     <NewsCard
       key={item.slug} // Don't forget to add a unique key prop for each item
-
       setContext={setExerciseData}
       item={item}
       navigation={navigation}
@@ -215,34 +328,38 @@ const HomePart3 = ({ person, sampleData, navigation }) => {
 
   const cryptoExample = [
     {
-      name: 'Bitcoin',
-      slug: 'BTC',
+      name: "Bitcoin",
+      slug: "BTC",
       image: null,
-      price: 67.000
+      price: 67.0,
     },
     {
-      name: 'Ethereum',
-      slug: 'ETH',
+      name: "Ethereum",
+      slug: "ETH",
       image: null,
-      price: 3.400
-    }
-    ,
+      price: 3.4,
+    },
     {
-      name: 'Solana',
-      slug: 'SOL',
+      name: "Solana",
+      slug: "SOL",
       image: null,
-      price: 167
-    }
-  ]
+      price: 167,
+    },
+  ];
   return (
     <View style={workoutsStyle}>
-
-<View style={{flexDirection: 'row', gap: 8, paddingBottom: 12}}>
-      <View style={{padding: 12, borderWidth: 1, borderRadius: 12, borderColor: '#312745', width: '100%'}}>
-        <Text style={{color: '#988EA9'}}>Cautare</Text>
-      </View>
-
-
+      <View style={{ flexDirection: "row", gap: 8, paddingBottom: 12 }}>
+        <View
+          style={{
+            padding: 12,
+            borderWidth: 1,
+            borderRadius: 12,
+            borderColor: "#312745",
+            width: "100%",
+          }}
+        >
+          <Text style={{ color: "#988EA9" }}>Cautare</Text>
+        </View>
       </View>
 
       <ScrollView
@@ -259,10 +376,9 @@ const HomePart3 = ({ person, sampleData, navigation }) => {
             selectedCategory={selectedCategory}
           />
         ))}
-     
       </ScrollView>
       <FlatList
-        data={cryptoExample}
+        data={coins}
         renderItem={renderItem}
         keyExtractor={(item) => item.slug}
         onEndReachedThreshold={0.8}
@@ -270,7 +386,6 @@ const HomePart3 = ({ person, sampleData, navigation }) => {
           loading ? <ActivityIndicator size="large" color="#0000ff" /> : null
         }
       />
-
     </View>
   );
 };

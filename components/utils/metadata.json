@@ -1,0 +1,4455 @@
+{
+  "1": {
+    "urls": {
+      "website": [
+        "https://bitcoin.org/"
+      ],
+      "technical_doc": [
+        "https://bitcoin.org/bitcoin.pdf"
+      ],
+      "twitter": [],
+      "reddit": [
+        "https://reddit.com/r/bitcoin"
+      ],
+      "message_board": [
+        "https://bitcointalk.org"
+      ],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://blockchain.coinmarketcap.com/chain/bitcoin",
+        "https://blockchain.info/",
+        "https://live.blockcypher.com/btc/",
+        "https://blockchair.com/bitcoin",
+        "https://explorer.viabtc.com/btc"
+      ],
+      "source_code": [
+        "https://github.com/bitcoin/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "id": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "slug": "bitcoin",
+    "description": "Bitcoin (BTC) is a consensus network that enables a new payment system and a completely digital currency. Powered by its users, it is a peer to peer payment network that requires no central authority to operate. On October 31st, 2008, an individual or group of individuals operating under the pseudonym \"Satoshi Nakamoto\" published the Bitcoin Whitepaper and described it as: \"a purely peer-to-peer version of electronic cash, which would allow online payments to be sent directly from one party to another without going through a financial institution.\"",
+    "notice": null,
+    "date_added": "2013-04-28T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1027": {
+    "urls": {
+      "website": [
+        "https://www.ethereum.org/"
+      ],
+      "technical_doc": [
+        "https://github.com/ethereum/wiki/wiki/White-Paper"
+      ],
+      "twitter": [
+        "https://twitter.com/ethereum"
+      ],
+      "reddit": [
+        "https://reddit.com/r/ethereum"
+      ],
+      "message_board": [
+        "https://forum.ethereum.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=428589.0"
+      ],
+      "chat": [
+        "https://gitter.im/orgs/ethereum/rooms"
+      ],
+      "explorer": [
+        "https://blockchain.coinmarketcap.com/chain/ethereum",
+        "https://etherscan.io/",
+        "https://ethplorer.io/",
+        "https://blockchair.com/ethereum",
+        "https://eth.tokenview.com/en/blocklist"
+      ],
+      "source_code": [
+        "https://github.com/ethereum"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "id": 1027,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "slug": "ethereum",
+    "description": "Ethereum (ETH) is a smart contract platform that enables developers to build decentralized applications (dapps) conceptualized by Vitalik Buterin in 2013. ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met. On the blockchain, smart contracts allow for code to be run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. The Ethereum network went live on July 30th, 2015 with 72 million Ethereum premined.",
+    "notice": null,
+    "date_added": "2015-08-07T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "52": {
+    "urls": {
+      "website": [
+        "https://ripple.com/xrp/"
+      ],
+      "technical_doc": [
+        "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Ripple"
+      ],
+      "reddit": [
+        "https://reddit.com/r/ripple"
+      ],
+      "message_board": [
+        "http://www.xrpchat.com/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/Ripple"
+      ],
+      "explorer": [
+        "https://xrpcharts.ripple.com/#/graph/",
+        "https://bithomp.com/explorer/",
+        "https://xrpscan.com/"
+      ],
+      "source_code": [
+        "https://github.com/ripple"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+    "id": 52,
+    "name": "XRP",
+    "symbol": "XRP",
+    "slug": "ripple",
+    "description": "Ripple (XRP) is an independent digital asset that is native to the Ripple Consensus Ledger. With proven governance and the fastest transaction confirmation of its kind, XRP is said to be the most efficient settlement option for financial institutions and liquidity providers seeking global reach, accessibility and fast settlement finality for interbank flows.",
+    "notice": null,
+    "date_added": "2013-08-04T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1831": {
+    "urls": {
+      "website": [
+        "https://www.bitcoincash.org/"
+      ],
+      "technical_doc": [],
+      "twitter": [],
+      "reddit": [
+        "https://reddit.com/r/Bitcoincash"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2040221.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://blockchair.com/bitcoin-cash",
+        "https://bch.tokenview.com/en",
+        "http://blockdozer.com/insight/",
+        "https://explorer.viabtc.com/bch"
+      ],
+      "source_code": [
+        "https://github.com/bitcoincashorg/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+    "id": 1831,
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "slug": "bitcoin-cash",
+    "description": "Bitcoin Cash (BCH) is hard fork (a community-activated update to the protocol or code) of Bitcoin that took effect on August 1st, 2017 that increased the block size to 8MB, to help the scale the underlying technology of Bitcoin.Nov 16th 2018: BCH was hard forked again and split into Bitcoin SV and Bitcoin ABC. Bitcoin ABC became the dominant chain and took over the BCH ticker as it had more hashpower and majority of the nodes in the network.",
+    "notice": "In order to reflect the current market, we have merged our Bitcoin Cash (BCH) and Bitcoin Cash ABC (BCHABC) listings. We have observed that a majority of exchanges are using the Bitcoin Cash (BCH) to refer to the Bitcoin Cash ABC implementation. For more information on Bitcoin Cash SV (BCHSV), please <a href=\"https://coinmarketcap.com/currencies/bitcoin-cash-sv/\">navigate here.</a> ",
+    "date_added": "2017-07-23T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2": {
+    "urls": {
+      "website": [
+        "https://litecoin.org/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/LitecoinProject"
+      ],
+      "reddit": [
+        "https://reddit.com/r/litecoin"
+      ],
+      "message_board": [
+        "https://litecointalk.io/",
+        "https://litecoin-foundation.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=47417.0"
+      ],
+      "chat": [
+        "https://telegram.me/litecoin"
+      ],
+      "explorer": [
+        "https://blockchair.com/litecoin",
+        "https://chainz.cryptoid.info/ltc/",
+        "http://explorer.litecoin.net/chain/Litecoin",
+        "https://ltc.tokenview.com/en",
+        "https://explorer.viabtc.com/ltc"
+      ],
+      "source_code": [
+        "https://github.com/litecoin-project/litecoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "id": 2,
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "slug": "litecoin",
+    "description": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the Bitcoin protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive Scrypt proof of work mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.",
+    "notice": null,
+    "date_added": "2013-04-28T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "825": {
+    "urls": {
+      "website": [
+        "https://tether.to"
+      ],
+      "technical_doc": [
+        "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/tether_to"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://www.omniexplorer.info/asset/31",
+        "https://usdt.tokenview.com/",
+        "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "id": 825,
+    "name": "Tether",
+    "symbol": "USDT",
+    "slug": "tether",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen.",
+    "notice": null,
+    "date_added": "2015-02-25T00:00:00.000Z",
+    "tags": null,
+    "date_launched": "2015-03-06T14:49:00.000Z",
+    "platform": {
+      "id": 83,
+      "name": "Omni",
+      "symbol": "OMNI",
+      "slug": "omni",
+      "token_address": "31"
+    },
+    "category": "token"
+  },
+  "1765": {
+    "urls": {
+      "website": [
+        "https://eos.io/"
+      ],
+      "technical_doc": [
+        "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+      ],
+      "twitter": [
+        "https://twitter.com/block_one_"
+      ],
+      "reddit": [
+        "https://reddit.com/r/EOS"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1904415.0"
+      ],
+      "chat": [
+        "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ"
+      ],
+      "explorer": [
+        "https://bloks.io/",
+        "https://eosflare.io/",
+        "https://eospark.com/",
+        "https://www.eosx.io/account/eosio.token?partner=coinmarketcap"
+      ],
+      "source_code": [
+        "https://github.com/eosio"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "id": 1765,
+    "name": "EOS",
+    "symbol": "EOS",
+    "slug": "eos",
+    "description": "EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. The protocol emulates most of the attributes of a real computer including hardware (CPU(s) & GPU(s) for processing, local/RAM memory, hard-disk storage) with the computing resources distributed equally among EOS cryptocurrency holders. EOSIO operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model. The smart contract platform claims to eliminate transaction fees and also conduct millions of transactions per second. EOS (EOS) is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. The EOS software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters.",
+    "notice": null,
+    "date_added": "2017-07-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1839": {
+    "urls": {
+      "website": [
+        "https://www.binance.com/"
+      ],
+      "technical_doc": [
+        "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/binance"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BinanceExchange"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://binance.zendesk.com/hc/en-us/articles/115000497111-Binance-Coin-BNB-"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://explorer.binance.org/",
+        "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "id": 1839,
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "slug": "binance-coin",
+    "description": "Binance Coin (BNB) is the cryptocurrency of the Binance platform. The name \"Binance\" is a combination of binary and finance. As of 2019, many businesses accept BNB as a form of payment.",
+    "notice": null,
+    "date_added": "2017-07-25T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3602": {
+    "urls": {
+      "website": [
+        "https://bitcoinsv.io/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/BitcoinSVNode"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [
+        "https://bitcoinsv.io/news/"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://blockchair.com/bitcoin-sv",
+        "https://svblox.com/",
+        "https://bchsv.tokenview.com/en/",
+        "https://explorer.viabtc.com/bsv"
+      ],
+      "source_code": [
+        "https://github.com/bitcoin-sv/bitcoin-sv"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png",
+    "id": 3602,
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "slug": "bitcoin-sv",
+    "description": "Bitcoin SV stands for Satoshi Vision.\r\n\r\nStemming from Bitcoin Cash, BSV is a hard fork (community-activated update to the protocol or code) established as distinct from BCH after the network upgrade scheduled for November 15th, 2018 resulted in a hash war determining the chains would be split. According to their website, the Bitcoin SV project is primarily backed by CoinGeek Mining with development work by nChain.",
+    "notice": null,
+    "date_added": "2018-11-09T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "512": {
+    "urls": {
+      "website": [
+        "https://www.stellar.org"
+      ],
+      "technical_doc": [
+        "https://www.stellar.org/papers/stellar-consensus-protocol.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/StellarOrg"
+      ],
+      "reddit": [
+        "https://reddit.com/r/stellar"
+      ],
+      "message_board": [
+        "https://stellarcommunity.org/",
+        "https://galactictalk.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1428573.0"
+      ],
+      "chat": [
+        "http://slack.stellar.org/"
+      ],
+      "explorer": [
+        "https://dashboard.stellar.org/",
+        "https://stellar.expert/explorer/public/",
+        "https://steexp.com/"
+      ],
+      "source_code": [
+        "https://github.com/stellar"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+    "id": 512,
+    "name": "Stellar",
+    "symbol": "XLM",
+    "slug": "stellar",
+    "description": "The Stellar network is an open source, distributed, and community owned network used to facilitate cross-asset transfers of value. Stellar aims to help facilitate cross-asset transfer of value at a fraction of a penny while aiming to be an open financial system that gives people of all income levels access to low-cost financial services. Stellar can handle exchanges between fiat-based currencies and between cryptocurrencies. Stellar.org, the organization that supports Stellar, is centralized like XRP and meant to handle cross platform transactions and micro transactions like XRP. However, unlike Ripple, Stellar.org is non-profit and their platform itself is open source and decentralized. Through the use of its intermediary currency Lumens (XLM), a user can send any currency that they own to anyone else in a different currency. \n\nStellar was founded by Jed McCaleb in 2014. Jed McCaleb is also the founder of Mt. Gox and co-founder of Ripple, launched the network system Stellar with former lawyer Joyce Kim. Stellar is also a payment technology that aims to connect financial institutions and drastically reduce the cost and time required for cross-border transfers. In fact, both payment networks used the same protocol initially.",
+    "notice": null,
+    "date_added": "2014-08-05T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "328": {
+    "urls": {
+      "website": [
+        "https://ww.getmonero.org/"
+      ],
+      "technical_doc": [
+        "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/monero"
+      ],
+      "reddit": [
+        "https://reddit.com/r/monero"
+      ],
+      "message_board": [
+        "https://forum.getmonero.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=583449.0"
+      ],
+      "chat": [
+        "https://telegram.me/bitmonero"
+      ],
+      "explorer": [
+        "http://moneroblocks.info/",
+        "http://chainradar.com/xmr/blocks",
+        "https://xmr.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/monero-project/monero"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+    "id": 328,
+    "name": "Monero",
+    "symbol": "XMR",
+    "slug": "monero",
+    "description": "Monero (XMR) is a private, secure, and untraceable cryptocurrency that was launched April 18th, 2014. With Monero, it is said you are in complete control of your funds and privacy no one else can see anyone else's balances or transactions.",
+    "notice": null,
+    "date_added": "2014-05-21T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2010": {
+    "urls": {
+      "website": [
+        "https://www.cardano.org"
+      ],
+      "technical_doc": [
+        "https://www.cardano.org/en/academic-papers/"
+      ],
+      "twitter": [
+        "https://twitter.com/cardano"
+      ],
+      "reddit": [
+        "https://reddit.com/r/cardano"
+      ],
+      "message_board": [
+        "https://forum.cardano.org/"
+      ],
+      "announcement": [
+        "https://cardanodocs.com/cardano/monetary-policy/"
+      ],
+      "chat": [
+        "https://t.me/CardanoAnnouncements"
+      ],
+      "explorer": [
+        "https://cardanoexplorer.com/",
+        "https://seiza.com/home",
+        "https://adascan.net/"
+      ],
+      "source_code": [
+        "https://github.com/input-output-hk/cardano-sl/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+    "id": 2010,
+    "name": "Cardano",
+    "symbol": "ADA",
+    "slug": "cardano",
+    "description": "Cardano (ADA) is a decentralized platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is reportedly the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach, and one of the first to be built in the Haskell programming language. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed.  The development team consists of a large global collective of expert engineers and researchers. The protocol reportedly features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. Cardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a treasury system.",
+    "notice": null,
+    "date_added": "2017-10-01T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3957": {
+    "urls": {
+      "website": [
+        "https://www.bitfinex.com/"
+      ],
+      "technical_doc": [
+        "https://www.bitfinex.com/wp-2019-05.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/bitfinex"
+      ],
+      "reddit": [
+        "https://reddit.com/r/bitfinex"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/bfxtelegram"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "https://ethplorer.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "https://eospark.com/account/bitfinexleo1",
+        "https://eosflare.io/account/bitfinexleo1"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+    "id": 3957,
+    "name": "UNUS SED LEO",
+    "symbol": "LEO",
+    "slug": "unus-sed-leo",
+    "description": "UNUS SED LEO (LEO) is a cryptocurrency token and operates on the Ethereum platform. UNUS SED LEO has a current supply of 999,498,892.9. The last known price of UNUS SED LEO is $1.14 USD and is up 0.40% over the last 24 hours. It is currently trading on 20 active market(s) with $6,021,873.804 traded over the last 24 hours. More information can be found at https://www.bitfinex.com/.",
+    "notice": null,
+    "date_added": "2019-05-21T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+    },
+    "category": "token"
+  },
+  "1958": {
+    "urls": {
+      "website": [
+        "https://tron.network/"
+      ],
+      "technical_doc": [
+        "https://developers.tron.network/docs"
+      ],
+      "twitter": [
+        "https://twitter.com/justinsuntron"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Tronix"
+      ],
+      "message_board": [
+        "https://medium.com/@Tronfoundation"
+      ],
+      "announcement": [],
+      "chat": [
+        "http://t.me/tronnetworkEN"
+      ],
+      "explorer": [
+        "https://tronscan.org/#/",
+        "https://www.trxplorer.io/"
+      ],
+      "source_code": [
+        "https://github.com/tronprotocol"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+    "id": 1958,
+    "name": "TRON",
+    "symbol": "TRX",
+    "slug": "tron",
+    "description": "TRON (TRX) strives to build the future of a truly decentralized internet and global free content entertainment system that utilizes blockchain technology. The TRON Protocol represents the architecture of an operating system based on the blockchain which could enable developers to create smart contracts and decentralized applications, freely publish, own, and store data and other content. According to the TRON Foundation, the ecosystem surrounding this network specializes in offering massive scalability and consistent reliability capable of processing transactions at a high rate via high-throughput computing.",
+    "notice": null,
+    "date_added": "2017-09-13T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "131": {
+    "urls": {
+      "website": [
+        "https://www.dash.org/"
+      ],
+      "technical_doc": [
+        "https://github.com/dashpay/dash/wiki/Whitepaper"
+      ],
+      "twitter": [
+        "https://twitter.com/Dashpay"
+      ],
+      "reddit": [
+        "https://reddit.com/r/dashpay"
+      ],
+      "message_board": [
+        "https://www.dash.org/forum/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=421615.0"
+      ],
+      "chat": [
+        "https://discord.gg/9z8zX5j",
+        "https://discordapp.com/invite/PXbUxJB"
+      ],
+      "explorer": [
+        "https://explorer.dash.org",
+        "https://insight.dash.org/insight/",
+        "https://chainz.cryptoid.info/dash/"
+      ],
+      "source_code": [
+        "https://github.com/dashpay/dash"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+    "id": 131,
+    "name": "Dash",
+    "symbol": "DASH",
+    "slug": "dash",
+    "description": "Dash (DASH) describes itself as digital cash that aims to offer financial freedom to everyone. Payments are fast, easy, secure, and with near-zero fees. Built to support real-life use cases, Dash aims to provide a fully-decentralized payments solution. Users can reportedly purchase goods at thousands of merchants and trade it at major exchanges and brokers around the globe. \r\n\r\nAccording to the team, Dash has -- since its creation in 2014 -- introduced features such as:\r\n\r\n- Two-tier network with incentivized nodes and decentralized project governance (Masternodes)\r\n- Instantly settled payments (InstantSend)\r\n- Instantly immutable blockchain (ChainLocks)\r\n- Optional privacy (PrivateSend)",
+    "notice": null,
+    "date_added": "2014-02-14T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1321": {
+    "urls": {
+      "website": [
+        "https://ethereumclassic.org/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/eth_classic"
+      ],
+      "reddit": [
+        "https://reddit.com/r/EthereumClassic"
+      ],
+      "message_board": [
+        "https://forum.ethereumclassic.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1559630.0"
+      ],
+      "chat": [
+        "https://discord.gg/HW4GckH",
+        "https://telegram.me/ethclassic"
+      ],
+      "explorer": [
+        "http://gastracker.io/",
+        "http://etherhub.io/",
+        "https://blockscout.com/etc/mainnet/"
+      ],
+      "source_code": [
+        "https://github.com/ethereumclassic/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "id": 1321,
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "slug": "ethereum-classic",
+    "description": "After a loophole was exploited by a hacker on June 17th, 2016, resulting in millions of stolen Ether, Ethereum forked to a new chain that aimed to remedy the damages from the hack. Ethereum Classic is the continuation of the original Ethereum blockchain - the classic version.",
+    "notice": null,
+    "date_added": "2016-07-24T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2011": {
+    "urls": {
+      "website": [
+        "https://www.tezos.com/"
+      ],
+      "technical_doc": [
+        "https://www.tezos.com/static/papers/white_paper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/tezos"
+      ],
+      "reddit": [
+        "https://reddit.com/r/tezos"
+      ],
+      "message_board": [
+        "https://www.tezos.ch/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://riot.im/app/#/room/%23tezos:matrix.org",
+        "https://t.me/tezosplatform"
+      ],
+      "explorer": [
+        "https://tzscan.io/",
+        "https://tezos.id/"
+      ],
+      "source_code": [
+        "https://gitlab.com/tezos/tezos"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "id": 2011,
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "slug": "tezos",
+    "description": "Developed by ex-Morgan Stanley analyst Arthur Breitman. Tezos (XTZ) is a multi-purpose platform that supports dApps and smart contracts. It aims to combine a self-correcting protocol and on-chain governance to manage network modifications. Tezos is powered by XTZ, which is created through 'baking'. Bakers put up deposits and are rewarded for signing and publishing blocks. Witnesses then validate the blocks. Dishonest bakers lose their XTZ deposits. Tezos uses delegated proof-of-stake (DPoS) and supports Turing complete smart contracts. Tezos is implemented in the OCaml programming language, which is said to offer 'functional, imperative, and object-oriented styles'.",
+    "notice": null,
+    "date_added": "2017-10-02T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1720": {
+    "urls": {
+      "website": [
+        "https://www.iota.org/"
+      ],
+      "technical_doc": [
+        "https://iota.org/IOTA_Whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/iotatoken"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Iota"
+      ],
+      "message_board": [
+        "https://forum.iota.org"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1216479.0"
+      ],
+      "chat": [
+        "https://discord.gg/7Gu2mG5"
+      ],
+      "explorer": [
+        "https://thetangle.org/",
+        "https://iotasear.ch/"
+      ],
+      "source_code": [
+        "https://github.com/iotaledger"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+    "id": 1720,
+    "name": "IOTA",
+    "symbol": "MIOTA",
+    "slug": "iota",
+    "description": "IOTA (IOTA) is a distributed ledger for the Internet of Things that uses a directed acyclic graph (DAG) instead of a conventional blockchain. \n\nIts quantum-proof protocol, Tangle, reportedly brings benefits like 'zero fees, infinite scalability, fast transactions, and secure data transfer'. \n\nThe IOTA Tangle is a Directed Acyclic Graph which has no fees on transactions and no fixed limit on how many transactions can be confirmed per second in the network; instead, the throughput grows in conjunction with activity in the network; i.e., the more activity, the faster the network.",
+    "notice": null,
+    "date_added": "2017-06-13T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1975": {
+    "urls": {
+      "website": [
+        "https://chain.link/"
+      ],
+      "technical_doc": [
+        "https://link.smartcontract.com/whitepaper"
+      ],
+      "twitter": [
+        "https://twitter.com/smart_contract"
+      ],
+      "reddit": [
+        "https://reddit.com/r/chainlink"
+      ],
+      "message_board": [
+        "https://medium.com/chainlink"
+      ],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+        "https://ethplorer.io/address/0x514910771af9ca656af840dff83e8264ecf986ca"
+      ],
+      "source_code": [
+        "https://github.com/smartcontractkit/chainlink"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "id": 1975,
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "slug": "chainlink",
+    "description": "Chainlink (LINK) is a decentralized oracle service, which aims to connect smart contracts with data from the real world. Since blockchains cannot access data outside their network, oracles are needed to function as data feeds in smart contracts. Oracles provide external data (e.g. temperature, weather) that trigger smart contract executions upon the fulfillment of pre-defined conditions. Participants on the Chainlink network are incentivized (through rewards) to provide smart contracts with access to external data feeds. Should users desire access to off-chain data, they can submit a requesting contract to ChainLink’s network. These contracts will match the requesting contract with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The aggregating contract gathers data of the selected oracles to find the most accurate result.",
+    "notice": null,
+    "date_added": "2017-09-20T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+    },
+    "category": "token"
+  },
+  "1376": {
+    "urls": {
+      "website": [
+        "https://neo.org/"
+      ],
+      "technical_doc": [
+        "http://docs.neo.org/en-us/"
+      ],
+      "twitter": [
+        "https://twitter.com/neo_blockchain"
+      ],
+      "reddit": [
+        "https://reddit.com/r/NEO"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2057932.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://neoscan.io/",
+        "https://explorer.o3.network/",
+        "https://neo.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/neo-project"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png",
+    "id": 1376,
+    "name": "NEO",
+    "symbol": "NEO",
+    "slug": "neo",
+    "description": "NEO (NEO), formerly Antshares, aims to build a 'smart economy' by incorporating digital assets, digital identities, and smart contracts.\r\n\r\nDeveloped by Onchain DNA, Neo's dual-token ecosystem can be used for creating dApps and ICOs. Its Delegated Byzantine Fault Tolerance (dBFT) consensus algorithm is purportedly faster than the PoW used by Ethereum and Bitcoin.",
+    "notice": null,
+    "date_added": "2016-09-08T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1518": {
+    "urls": {
+      "website": [
+        "https://makerdao.com/"
+      ],
+      "technical_doc": [
+        "https://makerdao.com/en/whitepaper/#overview-of-the-dai-stablecoin-system"
+      ],
+      "twitter": [
+        "https://twitter.com/MakerDAO"
+      ],
+      "reddit": [
+        "https://reddit.com/r/MakerDAO"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/Maker",
+        "https://ethplorer.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+    "id": 1518,
+    "name": "Maker",
+    "symbol": "MKR",
+    "slug": "maker",
+    "description": "Maker is a smart contract platform on the Ethereum chain that backs and stabilizes the value of stablecoin DAI through a dynamic system of Collateralized Debt Positions (CDP), autonomous feedback mechanisms, and appropriately incentivized external actors. MKR tokens are created or destroyed in accordance with price fluctuations of the DAI coin in order to keep it as close to $1 USD as possible, and is part of a fully inspectable system on the Ethereum blockchain. MKR tokens are also used to pay transaction fees on the Maker system, and provides holders with voting rights within Maker’s continuous approval voting system.",
+    "notice": null,
+    "date_added": "2017-01-29T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+    },
+    "category": "token"
+  },
+  "3408": {
+    "urls": {
+      "website": [
+        "https://www.centre.io/usdc"
+      ],
+      "technical_doc": [
+        "https://www.centre.io/pdfs/centre-whitepaper.pdf"
+      ],
+      "twitter": [],
+      "reddit": [],
+      "message_board": [
+        "https://medium.com/centre-blog"
+      ],
+      "announcement": [
+        "https://blog.circle.com/2018/09/26/introducing-usd-coin/"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      ],
+      "source_code": [
+        "https://github.com/centrehq/centre-tokens"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "id": 3408,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "slug": "usd-coin",
+    "description": "USDC is a fully collateralized US dollar stablecoin. It is an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase. USDCs are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency in a 1 USDC:1 USD ratio. Issuers are required to report their USD reserve holdings frequently, and Grant Thornton LLP issues reports on those holdings every month.",
+    "notice": null,
+    "date_added": "2018-10-08T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
+    "category": "token"
+  },
+  "873": {
+    "urls": {
+      "website": [
+        "http://nem.io"
+      ],
+      "technical_doc": [
+        "https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/NEMofficial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/nem"
+      ],
+      "message_board": [
+        "https://forum.nem.io/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=654845.0"
+      ],
+      "chat": [
+        "https://t.me/nemred"
+      ],
+      "explorer": [
+        "http://chain.nem.ninja/",
+        "http://explorer.nemtool.com/"
+      ],
+      "source_code": [
+        "https://github.com/nemtech"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png",
+    "id": 873,
+    "name": "NEM",
+    "symbol": "XEM",
+    "slug": "nem",
+    "description": "NEM (XEM), which stands for New Economy Movement, is a dual-layer blockchain that is written in Java and launched in 2015. The NEM mainnet supports multiple ledgers and has a NEM Smart Asset system, where nodes on the NEM blockchain process API calls. Its native currency is XEM, is 'harvested' using its POI (Proof-of-Importance) algorithm. The 'importance' of NEM users is determined by the number of coins they have and the number of transactions associated with their wallet. NEM also has an encrypted P2P messaging system, multisignature accounts, and an Eigentrust++ reputation system.",
+    "notice": null,
+    "date_added": "2015-04-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3794": {
+    "urls": {
+      "website": [
+        "https://cosmos.network/"
+      ],
+      "technical_doc": [
+        "https://cosmos.network/resources/whitepaper"
+      ],
+      "twitter": [
+        "https://twitter.com/cosmos"
+      ],
+      "reddit": [
+        "https://reddit.com/r/cosmosnetwork"
+      ],
+      "message_board": [
+        "https://blog.cosmos.network/",
+        "https://forum.cosmos.network/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/cosmosproject"
+      ],
+      "explorer": [
+        "https://www.mintscan.io/",
+        "https://hubble.figment.network/chains/cosmoshub-1",
+        "https://cosmos.bigdipper.live/"
+      ],
+      "source_code": [
+        "https://github.com/cosmos"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "id": 3794,
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "slug": "cosmos",
+    "description": "Cosmos (ATOM) is a cryptocurrency. Users are able to generate ATOM through the process of mining. Cosmos has a current supply of 237,928,230.822 with 190,688,439.2 in circulation. The last known price of Cosmos is $2.18 USD and is down -2.00% over the last 24 hours. It is currently trading on 89 active market(s) with $102,373,328.528 traded over the last 24 hours. More information can be found at https://cosmos.network/.",
+    "notice": null,
+    "date_added": "2019-03-14T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2566": {
+    "urls": {
+      "website": [
+        "https://ont.io/"
+      ],
+      "technical_doc": [
+        "https://ont.io/wp/Ontology-Introductory-White-Paper-EN.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/OntologyNetwork"
+      ],
+      "reddit": [
+        "https://reddit.com/r/OntologyNetwork"
+      ],
+      "message_board": [
+        "https://medium.com/ontologynetwork"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/OntologyNetwork",
+        "https://t.me/OntologyNetworkCN"
+      ],
+      "explorer": [
+        "https://explorer.ont.io/",
+        "https://ont.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/ontio"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png",
+    "id": 2566,
+    "name": "Ontology",
+    "symbol": "ONT",
+    "slug": "ontology",
+    "description": "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\r\n\r\nThe Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\r\n\r\nOntology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol. Ontology intends to continue developing new common modules based on specific scenario requirements. \r\n\r\nOntology uses a dual token (ONT and ONG) model. ONT is a coin and can be used for staking in consensus, whereas ONG is a utility token used for on-chain services. ONT releases ONG periodically.",
+    "notice": null,
+    "date_added": "2018-03-08T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3635": {
+    "urls": {
+      "website": [
+        "https://www.crypto.com/en/chain"
+      ],
+      "technical_doc": [
+        "https://www.crypto.com/images/chain_whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/cryptocom"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Crypto_com"
+      ],
+      "message_board": [
+        "https://blog.crypto.com/",
+        "http://medium.com/@crypto.com"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/CryptoComOfficial",
+        "https://discordapp.com/invite/B6cZahJ"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "https://ethplorer.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+    "id": 3635,
+    "name": "Crypto.com Chain",
+    "symbol": "CRO",
+    "slug": "crypto-com-chain",
+    "description": "Crypto.com was founded in 2016 with the goal of accelerating the world’s transition to cryptocurrency. Key products include: the Crypto.com Wallet & Card App, a place to buy, sell, and pay with crypto, the MCO Visa Card, a metal card with no annual fees, and the Crypto.com Chain, which reportedly enables users to pay and be paid in crypto, anywhere, for free. Crypto.com is headquartered in Hong Kong with a team size of 120+. For more information, please visit: www.crypto.com",
+    "notice": null,
+    "date_added": "2018-12-14T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+    },
+    "category": "token"
+  },
+  "1437": {
+    "urls": {
+      "website": [
+        "https://z.cash/"
+      ],
+      "technical_doc": [
+        "https://github.com/zcash/zips/blob/master/protocol/protocol.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/zcashco"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://forum.z.cash/"
+      ],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://explorer.zcha.in/",
+        "https://zcash.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/zcash/zcash"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+    "id": 1437,
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "slug": "zcash",
+    "description": "Launched in 2016 by Zooko Wilcox-O’Hearn and based on the Zerocoin protocol, Zcash (ZEC) is a decentralized and open-source privacy-focused cryptocurrency that enables selective transparency of transactions. Zcash transactions can either be transparent or shielded through a zero-knowledge proof called zk-SNARKs. This allows the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publishing spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is being dishonest.",
+    "notice": null,
+    "date_added": "2016-10-29T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "74": {
+    "urls": {
+      "website": [
+        "http://dogecoin.com/"
+      ],
+      "technical_doc": [
+        "https://github.com/dogecoin/dogecoin/blob/master/README.md"
+      ],
+      "twitter": [
+        "https://twitter.com/dogecoin"
+      ],
+      "reddit": [
+        "https://reddit.com/r/dogecoin"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=361813.0"
+      ],
+      "chat": [
+        "http://webchat.freenode.net/?nick=Shibe..&channels=%23dogecoin&prompt=1"
+      ],
+      "explorer": [
+        "https://blockchair.com/dogecoin",
+        "http://dogechain.info/chain/Dogecoin",
+        "https://doge.tokenview.com",
+        "https://explorer.viabtc.com/doge"
+      ],
+      "source_code": [
+        "https://github.com/dogecoin/dogecoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "id": 74,
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "slug": "dogecoin",
+    "description": "Based on the popular \"Doge\" Internet meme and featuring a Shiba Inu on its logo, Dogecoin (DOGE) is a cryptocurrency that was forked from Litecoin in Dec 2013. Dogecoin has been used primarily as a tipping system on Reddit and Twitter to reward the creation or sharing of quality content. Dogecoin was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia. Both had envisaged Dogecoin as a fun, light-hearted cryptocurrency that would have greater appeal beyond the core Bitcoin audience.",
+    "notice": null,
+    "date_added": "2013-12-15T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3704": {
+    "urls": {
+      "website": [
+        "https://www.v.systems/"
+      ],
+      "technical_doc": [
+        "https://v.systems/pdf/sposwhitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/VSYSCoin"
+      ],
+      "reddit": [
+        "https://reddit.com/r/V_SYSTEMS"
+      ],
+      "message_board": [
+        "https://medium.com/vsystems"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=5095853.0"
+      ],
+      "chat": [
+        "https://t.me/VSYSOfficialGroup"
+      ],
+      "explorer": [
+        "https://explorer.v.systems/"
+      ],
+      "source_code": [
+        "https://github.com/virtualeconomy/v-systems"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3704.png",
+    "id": 3704,
+    "name": "V Systems",
+    "symbol": "VSYS",
+    "slug": "v-systems",
+    "description": "V SYSTEMS describes itself as a blockchain infrastructure provider with a focus on database and cloud services. Powered by the Supernode Proof-of-Stake (SPoS) consensus algorithm, each supernode is elected in a decentralized network according to Proof-of-Stake (PoS) principles. According to the team, it provides high-performance minting, transaction processing, and smart contract functions. VSYS is the native currency for the V SYSTEMS blockchain platform with use cases such as transactions, staking, and minting on the network.\r\n\r\nV SYSTEMS aims to deliver decentralized cloud database technology with high scalability, durability, and performance. With Sunny King as the lead architect, V SYSTEMS has already designed and implemented SPoS Consensus, which the team claims to be an efficient distributed consensus algorithm with resistance to 51% attacks. The network plans to operate as a cloud platform based on modular systems that can support efficient and agile development of a host of applications such as finance (DeFi), entertainment, and social network.",
+    "notice": null,
+    "date_added": "2019-03-05T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1168": {
+    "urls": {
+      "website": [
+        "https://www.decred.org/"
+      ],
+      "technical_doc": [
+        "https://docs.decred.org/"
+      ],
+      "twitter": [
+        "https://twitter.com/decredproject"
+      ],
+      "reddit": [
+        "https://reddit.com/r/decred"
+      ],
+      "message_board": [
+        "https://medium.com/decred",
+        "https://forum.decred.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1290358.0"
+      ],
+      "chat": [
+        "https://t.me/decred",
+        "https://discordapp.com/invite/GJ2GXfz"
+      ],
+      "explorer": [
+        "https://mainnet.decred.org/",
+        "https://explorer.dcrdata.org/",
+        "https://stats.decred.org/"
+      ],
+      "source_code": [
+        "https://github.com/decred"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png",
+    "id": 1168,
+    "name": "Decred",
+    "symbol": "DCR",
+    "slug": "decred",
+    "description": "Decred (DCR) is an open-source, Bitcoin fork that places emphasis on development funding, on-chain governance, and consensus mechanisms.\r\n\r\nLaunched in Feb 2016 by the Bitcoin developers behind btcsuite (an alternative full-node Bitcoin implementation written in Go (golang), Decred successfully orchestrated an on-chain user-activated consensus vote, which is emblematic of the project's emphasis on community-driven stakeholder governance. Other features of the project include a hybrid proof-of-work (PoW) proof-of-stake (PoS) consensus voting system, a public proposal platform, smart contracts, cross-chain atomic swaps, and cross-platform wallets .",
+    "notice": null,
+    "date_added": "2016-02-10T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3657": {
+    "urls": {
+      "website": [
+        "https://www.lambda.im/"
+      ],
+      "technical_doc": [
+        "https://www.lambda.im/doc/Lambda-Economic-White-Paper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Lambdaim"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://medium.com/@Lambdaim"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/HelloLambda"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x8971f9fd7196e5cee2c1032b50f656855af7dd26",
+        "https://ethplorer.io/address/0x8971f9fd7196e5cee2c1032b50f656855af7dd26"
+      ],
+      "source_code": [
+        "https://github.com/LambdaIM"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3657.png",
+    "id": 3657,
+    "name": "Lambda",
+    "symbol": "LAMB",
+    "slug": "lambda",
+    "description": "Lambda (LAMB) is a cryptocurrency token and operates on the Ethereum platform. Lambda has a current supply of 6,000,000,000 with 1,416,666,665 in circulation. The last known price of Lambda is $0.162381 USD and is down -2.78% over the last 24 hours. It is currently trading on 48 active market(s) with $42,653,596.019 traded over the last 24 hours. More information can be found at https://www.lambda.im/.",
+    "notice": null,
+    "date_added": "2019-01-02T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x8971f9fd7196e5cee2c1032b50f656855af7dd26"
+    },
+    "category": "token"
+  },
+  "3077": {
+    "urls": {
+      "website": [
+        "https://www.vechain.org/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/vechainofficial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/vechain"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/vechain_official_english",
+        "https://t.me/joinchat/GG4BlQwm19czcBGOewv40Q"
+      ],
+      "explorer": [
+        "https://explore.veforge.com/",
+        "https://www.vescan.io/",
+        "https://explorer.vtho.net/"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+    "id": 3077,
+    "name": "VeChain",
+    "symbol": "VET",
+    "slug": "vechain",
+    "description": "VeChain is an enterprise-focused blockchain ecosystem that aims to enhance supply chain management by connecting blockchain technology with the real world through 'a comprehensive governance structure, a robust economic model, and advanced IoT integration'. VeChain enables manufacturers to assign products with unique identifiers on the platform, thereby allowing participants to track the movement and provenance of products in a supply chain. \n Started in June 2015, VeChain describes itself as 'a pioneer of real-world applications using public blockchain technology, with international operations in Singapore, Luxembourg, Tokyo, Shanghai, Paris, Hong Kong, and San Francisco'",
+    "notice": null,
+    "date_added": "2017-08-22T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1697": {
+    "urls": {
+      "website": [
+        "https://basicattentiontoken.org/"
+      ],
+      "technical_doc": [
+        "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/attentiontoken"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BATProject"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+        "https://ethplorer.io/address/0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+    "id": 1697,
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "slug": "basic-attention-token",
+    "description": "Led by Brendan Eich (creator of JavaScript and co-founder of Mozilla), Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built on the Ethereum platform. The project seeks to address fraud and opaqueness in digital advertising.\r\n\r\nThe token aims to correctly price user attention within the platform. Advertisers pay BAT to website publishers for the attention of users. The BAT ecosystem includes Brave, an open-source, privacy-centered browser designed to block trackers and malware. It leverages blockchain technology to anonymously and track user attention securely and rewards publishers accordingly.",
+    "notice": null,
+    "date_added": "2017-06-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+    },
+    "category": "token"
+  },
+  "1684": {
+    "urls": {
+      "website": [
+        "https://qtum.org/"
+      ],
+      "technical_doc": [
+        "https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/qtumOfficial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Qtum"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1720632.0"
+      ],
+      "chat": [
+        "https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw"
+      ],
+      "explorer": [
+        "https://qtum.info/",
+        "https://qtumexplorer.io/"
+      ],
+      "source_code": [
+        "https://github.com/qtumproject/qtum/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png",
+    "id": 1684,
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "slug": "qtum",
+    "description": "Qtum (QTUM) is a Proof-of-Stake (PoS) smart contract blockchain platform and value transfer protocol. In PoS, node operators are rewarded for validating transactions. Qtum is built on Bitcoin's UTXO transaction model, with the added functionality of smart contract execution.",
+    "notice": null,
+    "date_added": "2017-05-24T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3330": {
+    "urls": {
+      "website": [
+        "https://paxos.com/standard"
+      ],
+      "technical_doc": [
+        "https://standard.paxos.com/whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/PaxosStandard"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://medium.com/@PaxosStandard"
+      ],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "https://etherscan.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+      ],
+      "source_code": [
+        "https://github.com/paxosglobal/pax-contracts"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png",
+    "id": 3330,
+    "name": "Paxos Standard Token",
+    "symbol": "PAX",
+    "slug": "paxos-standard-token",
+    "description": "Paxos Standard (PAX) is a stablecoin that allows users to exchange US dollars for Paxos Standard Tokens to 'transact at the speed of the internet'. It aims to meld the stability of the dollar with blockchain technology. Paxos, the company behind PAX, has a charter from the New York State Department of Financial Services, which allows it to offer regulated services in the cryptoasset space.",
+    "notice": null,
+    "date_added": "2018-09-27T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+    },
+    "category": "token"
+  },
+  "2563": {
+    "urls": {
+      "website": [
+        "https://www.trusttoken.com/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/TrustToken"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
+        "https://ethplorer.io/address/0x0000000000085d4780B73119b644AE5ecd22b376"
+      ],
+      "source_code": [
+        "https://github.com/trusttoken"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+    "id": 2563,
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "slug": "trueusd",
+    "description": "TrueUSD is a USD-pegged stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD. TrueUSD is issued by the TrustToken platform, the platform that has partnered with registered fiduciaries and banks that hold the funds backing the TrueUSD tokens. The USD funds are regularly verified in scheduled attestations, and kept in third party escrow accounts such that TrustToken has no direct access to the funds. ",
+    "notice": null,
+    "date_added": "2018-03-06T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x0000000000085d4780B73119b644AE5ecd22b376"
+    },
+    "category": "token"
+  },
+  "2083": {
+    "urls": {
+      "website": [
+        "https://bitcoingold.org/"
+      ],
+      "technical_doc": [
+        "https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec"
+      ],
+      "twitter": [
+        "https://twitter.com/bitcoingold"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BitcoinGoldHQ"
+      ],
+      "message_board": [
+        "https://forum.bitcoingold.org"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2284289.0"
+      ],
+      "chat": [
+        "https://t.me/BitcoinGoldHQ",
+        "https://discord.gg/HmVUU6S"
+      ],
+      "explorer": [
+        "https://explorer.bitcoingold.org/insight/",
+        "https://btg.tokenview.com/",
+        "https://btgexplorer.com/"
+      ],
+      "source_code": [
+        "https://github.com/BTCGPU/BTCGPU"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png",
+    "id": 2083,
+    "name": "Bitcoin Gold",
+    "symbol": "BTG",
+    "slug": "bitcoin-gold",
+    "description": "Bitcoin Gold (BTG) is a fork of Bitcoin that occurred on October 24, 2017 on block 419406. Bitcoin Gold changed Bitcoin’s proof-of-work algorithm from SHA256 to Equihash rendering specialised mining equipment obsolete in an attempt to democratise the Bitcoin mining process.",
+    "notice": null,
+    "date_added": "2017-10-23T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2502": {
+    "urls": {
+      "website": [
+        "https://www.hbg.com/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/HuobiGlobal"
+      ],
+      "reddit": [
+        "https://reddit.com/r/HuobiGlobal"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "http://ethplorer.io/address/0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
+    "id": 2502,
+    "name": "Huobi Token",
+    "symbol": "HT",
+    "slug": "huobi-token",
+    "description": "Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange. The HT can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special Huobi events, receive crypto rewards from seasonal buybacks and trade with other cryptocurrencies listed on the Huobi exchange.",
+    "notice": null,
+    "date_added": "2018-02-03T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+    },
+    "category": "token"
+  },
+  "1866": {
+    "urls": {
+      "website": [
+        "http://bytom.io/"
+      ],
+      "technical_doc": [
+        "https://github.com/Bytom/wiki"
+      ],
+      "twitter": [
+        "https://twitter.com/Bytom_Official"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BytomBlockchain"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1975390.0"
+      ],
+      "chat": [
+        "https://t.me/BytomInternational",
+        "https://t.me/bytomchinese"
+      ],
+      "explorer": [
+        "https://blockmeta.com/",
+        "https://btm.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/Bytom/bytom"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1866.png",
+    "id": 1866,
+    "name": "Bytom",
+    "symbol": "BTM",
+    "slug": "bytom",
+    "description": "Established in early 2017, the Bytom (BTM) Blockchain project was launched to develop a protocol that could tokenize assets from the physical world and represent them in the digital world on a decentralized network. Aiming to help businesses and individuals to register and exchange assets such as securities, bonds, deeds and various types of information, the Bytom blockchain uses a proof-of-work protocol that designed to enable customized contracts, promote AI technology, and provide unique identifiers for assets following a standardized naming convention.",
+    "notice": null,
+    "date_added": "2017-08-08T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3662": {
+    "urls": {
+      "website": [
+        "https://hedgetrade.com/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/hedgetradehq"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/HedgeTradeHQ"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+        "https://ethplorer.io/address/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F"
+      ],
+      "source_code": [
+        "https://github.com/rublixdev/hedgtokenmint"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3662.png",
+    "id": 3662,
+    "name": "HedgeTrade",
+    "symbol": "HEDG",
+    "slug": "hedgetrade",
+    "description": "HedgeTrade aims to become a platform where the world’s best traders share their knowledge. Traders post predictions into a smart contract-powered Blueprint that users can purchase or unlock in order to access. Traders are rewarded if the Blueprint is correct otherwise the user's purchase is refunded. HedgeTrade aims to revolutionize social trading using blockchain technology.",
+    "notice": null,
+    "date_added": "2019-01-03T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F"
+    },
+    "category": "token"
+  },
+  "1808": {
+    "urls": {
+      "website": [
+        "https://omisego.co/"
+      ],
+      "technical_doc": [
+        "https://developer.omisego.co"
+      ],
+      "twitter": [
+        "https://twitter.com/omise_go"
+      ],
+      "reddit": [
+        "https://reddit.com/r/omise_go"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/omisego_official"
+      ],
+      "explorer": [
+        "https://omisego.to/quest",
+        "https://etherscan.io/token/OmiseGo",
+        "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+      ],
+      "source_code": [
+        "https://github.com/omisego"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
+    "id": 1808,
+    "name": "OmiseGO",
+    "symbol": "OMG",
+    "slug": "omisego",
+    "description": "OmiseGO believes that having access to financial services can create economic opportunities and improve lives. OmiseGO was established with a mission to enable people to securely offer and access financial services, as well as exchange and spend digital assets anytime and anywhere. \r\n\r\nThe permissionless OmiseGO Network aims to enable instant, peer-to-peer transactions in real-time, facilitating financial services across geographies, asset classes, and applications. The OmiseGO eWallet Suite allows users to build and integrate a front-end interface for different types of digital transactions. \r\n\r\nIts team offers tailored and technical consulting services to provide future-ready solutions for an increasingly digitalized economy. Founded in 2017, OmiseGO is headquartered in Bangkok and is a subsidiary of Omise Holdings Pte., Ltd.",
+    "notice": null,
+    "date_added": "2017-07-14T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    },
+    "category": "token"
+  },
+  "2577": {
+    "urls": {
+      "website": [
+        "https://ravencoin.org/"
+      ],
+      "technical_doc": [
+        "https://ravencoin.org/whitepaper/"
+      ],
+      "twitter": [
+        "https://twitter.com/ravencoin"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Ravencoin"
+      ],
+      "message_board": [
+        "https://medium.com/@ravencoin"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3238497"
+      ],
+      "chat": [
+        "https://t.me/RavencoinDev",
+        "https://discordapp.com/invite/CqbfUZd"
+      ],
+      "explorer": [
+        "https://ravencoin.network/"
+      ],
+      "source_code": [
+        "https://github.com/RavenProject/Ravencoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
+    "id": 2577,
+    "name": "Ravencoin",
+    "symbol": "RVN",
+    "slug": "ravencoin",
+    "description": "Ravencoin (RVN) is an open-source blockchain project that specializes in the creation and peer-to-peer transfer of assets. Ravencoin enables users to create and trade any real-world (e.g. commodities) or digital (e.g. virtual goods) assets on a network. The core developers launched Ravencoin on 3 Jan 2018. The project has some prominent backers: Bruce Fenton, Board Member of The Bitcoin Foundation, advises the team while Overstock has made a multi-million dollar investment into the project. ",
+    "notice": null,
+    "date_added": "2018-03-10T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1214": {
+    "urls": {
+      "website": [
+        "https://lisk.io/"
+      ],
+      "technical_doc": [
+        "https://lisk.io/documentation/home"
+      ],
+      "twitter": [
+        "https://twitter.com/LiskHQ"
+      ],
+      "reddit": [
+        "https://reddit.com/r/lisk"
+      ],
+      "message_board": [
+        "https://blog.lisk.io/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1346646"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://explorer.lisk.io/"
+      ],
+      "source_code": [
+        "https://github.com/LiskHQ/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png",
+    "id": 1214,
+    "name": "Lisk",
+    "symbol": "LSK",
+    "slug": "lisk",
+    "description": "Lisk (LSK), founded in early 2016 by Max Kordek and Oliver Beddows and headquartered in Zug, Switzerland, is a blockchain application platform that seeks to make blockchain technology more accessible to the masses. Lisk focuses on user experience, developer support and in-depth documentations. Lisk’s SDK kit is written in JavaScript so as to allow developers to easily build blockchain applications on the Lisk blockchain and even deploy their own sidechain linked to the Lisk network. The open source Lisk blockchain platform is powered by Lisk (LSK) tokens and operates under the Delegated Proof of Stake (DPoS) consensus model to allow for its network to be secured by democratically elected delegates.",
+    "notice": null,
+    "date_added": "2016-04-06T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1567": {
+    "urls": {
+      "website": [
+        "http://nano.org/en"
+      ],
+      "technical_doc": [
+        "https://nano.org/en/whitepaper"
+      ],
+      "twitter": [
+        "https://twitter.com/nano"
+      ],
+      "reddit": [
+        "https://reddit.com/r/nanocurrency"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1381323.0"
+      ],
+      "chat": [
+        "https://discordapp.com/invite/JphbBas"
+      ],
+      "explorer": [
+        "https://nanocrawler.cc/",
+        "https://www.nanode.co/"
+      ],
+      "source_code": [
+        "https://github.com/nanocurrency"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png",
+    "id": 1567,
+    "name": "Nano",
+    "symbol": "NANO",
+    "slug": "nano",
+    "description": "Launched in 2015, Nano (formerly RaiBlocks) describes itself as an open source, sustainable, and secure next-generation digital currency focused on removing perceived inefficiencies present in existing cryptocurrencies. Designed to solve peer to peer transfer of value, Nano aims to revolutionize the world economy through an ultrafast and fee-less network that is open and accessible to everyone. \r\n\r\nNano is reportedly able to offer fast and feeless transactions due to the Block Lattice - a data structure in which all accounts each have their own blockchain, rather than competing with others on a central chain. Consensus is generated through representative voting, where accounts can freely choose their representative at any time with an update of their account chain, thereby providing more control for users to decide who validates transactions.\r\n\r\nEach component of the protocol was created with the long term goals of decentralization and accessibility in mind. By creating a system where representatives are not paid to operate, the incentive to participate in the network is shifted to indirect, operational cost savings. The team claims that this change in incentive model is more efficient and removes one of the factors driving centralization in other systems because participants are not encouraged to interact beyond their direct needs and supporting the network, and thus economies of scale become less critical.",
+    "notice": null,
+    "date_added": "2017-03-06T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2087": {
+    "urls": {
+      "website": [
+        "https://www.kucoin.com/"
+      ],
+      "technical_doc": [
+        "https://assets.kucoin.com/kucoin_whitepaper_en.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/kucoincom"
+      ],
+      "reddit": [
+        "https://reddit.com/r/kucoin"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+        "https://ethplorer.io/address/0x039b5649a59967e3e936d7471f9c3700100ee1ab"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+    "id": 2087,
+    "name": "KuCoin Shares",
+    "symbol": "KCS",
+    "slug": "kucoin-shares",
+    "description": "Kucoin Shares (KCS) is an exchange based token and native currency of the Kucoin crypto exchange. Holders of the token are able to reap the rewards from the success of the exchange as 50% of its overall trading fee revenue is shared with holders through the tokens. Rewards, received in the form of dividends, are proportionate to the amount of Kucoin Shares one holds.",
+    "notice": null,
+    "date_added": "2017-10-24T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab"
+    },
+    "category": "token"
+  },
+  "2222": {
+    "urls": {
+      "website": [
+        "https://www.bitcoindiamond.org/"
+      ],
+      "technical_doc": [
+        "https://www.bitcoindiamond.org/wp-content/uploads/2018/08/Bitcoin-Diamond-Whitepaper-1.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/BitcoinDiamond_"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Bitcoin-Diamond"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/BCDcommunity",
+        "https://bitcoindiamonds.slack.com/"
+      ],
+      "explorer": [
+        "http://explorer.btcd.io/",
+        "https://bcd.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/eveybcd/BitcoinDiamond"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2222.png",
+    "id": 2222,
+    "name": "Bitcoin Diamond",
+    "symbol": "BCD",
+    "slug": "bitcoin-diamond",
+    "description": "Bitcoin Diamond (BCD) is a hard fork of Bitcoin. The fork occurring at at block height 495866, implemented changes including a new proof of work algorithm to deter attacks on the network and segregation of transaction signatures from transactions on the chain for additional capacity allowing a greater number of transactions per second on the network as a whole.",
+    "notice": null,
+    "date_added": "2017-11-24T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "4030": {
+    "urls": {
+      "website": [
+        "http://algorand.foundation"
+      ],
+      "technical_doc": [
+        "https://www.algorand.com/resources/white-papers"
+      ],
+      "twitter": [
+        "https://twitter.com/AlgoFoundation"
+      ],
+      "reddit": [
+        "https://reddit.com/r/AlgorandOfficial"
+      ],
+      "message_board": [
+        "https://medium.com/algorand-foundation",
+        "https://forum.algorand.org/"
+      ],
+      "announcement": [
+        "https://algorand.foundation/algorand-foundation-marks-new-chapter-in-global-economics-with-inaugural-auction"
+      ],
+      "chat": [
+        "https://t.me/AlgorandFoundation",
+        "https://discord.gg/QBYp7Y2"
+      ],
+      "explorer": [
+        "https://algoexplorer.io/"
+      ],
+      "source_code": [
+        "https://github.com/algorand"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+    "id": 4030,
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "slug": "algorand",
+    "description": "Algorand (ALGO) is a cryptocurrency. Users are able to generate ALGO through the process of mining. Algorand has a current supply of 2,810,319,427.831 with 279,047,584.831 in circulation. The last known price of Algorand is $0.419605 USD and is down -1.36% over the last 24 hours. It is currently trading on 51 active market(s) with $64,822,308.911 traded over the last 24 hours. More information can be found at http://algorand.foundation.",
+    "notice": null,
+    "date_added": "2019-06-20T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2416": {
+    "urls": {
+      "website": [
+        "https://www.thetatoken.org/"
+      ],
+      "technical_doc": [
+        "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Theta_Network"
+      ],
+      "reddit": [
+        "https://reddit.com/r/theta_network"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2451089.0"
+      ],
+      "chat": [
+        "https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg"
+      ],
+      "explorer": [
+        "https://explorer.thetatoken.org/"
+      ],
+      "source_code": [
+        "https://github.com/thetatoken"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+    "id": 2416,
+    "name": "THETA",
+    "symbol": "THETA",
+    "slug": "theta",
+    "description": "THETA (THETA) is an open source protocol that powers a decentralized streaming network. It will allow for decentralized apps (DApps) to be built on top of the platform to enable use cases that span esports, entertainment, and peer-to-peer streaming. SLIVER.tv’s DApp was the first application built on the Theta network leveraging its existing user base of millions of esports viewers. In Nov 2018, Tencent Games announced a collaboration with SLIVER.tv to bring Theta rewards to Ring of Elysium players. The founding team has a combined 30+ years of experience in the video streaming space with advisors including Steve Chen, Co-Founder of YouTube, and Justin Kan, Co-Founder of Twitch. ",
+    "notice": null,
+    "date_added": "2018-01-17T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3116": {
+    "urls": {
+      "website": [
+        "http://www.insightchain.io"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/InsightChain"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/InsightChain"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482",
+        "https://ethplorer.io/address/0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3116.png",
+    "id": 3116,
+    "name": "Insight Chain",
+    "symbol": "INB",
+    "slug": "insight-chain",
+    "description": "Insight Chain uses its proprietary VDPoS (Validated DPoS) consensus algorithm, which combines DPoS, BFT, and validation nodes. Insight Chain also combines multi-main chains with multi-child chains to increase block production speeds, vertical/horizontal scalability, and store DApp business data on the public blockchain.",
+    "notice": null,
+    "date_added": "2018-08-08T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482"
+    },
+    "category": "token"
+  },
+  "1274": {
+    "urls": {
+      "website": [
+        "https://wavesplatform.com/"
+      ],
+      "technical_doc": [
+        "https://blog.wavesplatform.com/waves-whitepaper-164dd6ca6a23"
+      ],
+      "twitter": [
+        "https://twitter.com/wavesplatform"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Wavesplatform"
+      ],
+      "message_board": [
+        "https://forum.wavesplatform.com/",
+        "https://wavestalk.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3223136.0"
+      ],
+      "chat": [
+        "https://telegram.me/wavesnews",
+        "https://discordapp.com/invite/cnFmDyA"
+      ],
+      "explorer": [
+        "http://wavesexplorer.com/",
+        "http://wavesgo.com/"
+      ],
+      "source_code": [
+        "https://github.com/wavesplatform/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png",
+    "id": 1274,
+    "name": "Waves",
+    "symbol": "WAVES",
+    "slug": "waves",
+    "description": "Designed from scratch for storing, managing, and issuing digital assets, Waves (WAVES) is an open source decentralized blockchain platform that enables anyone to create their own internal digital currencies. Building on approaches implemented by NXT to make adding new transaction types possible, WAVES approaches this practice via plug-ins that do not require an update to the core software, but instead may be installed as extensions on top of it. As a result, clients not running software with these additional plug-ins may still relay custom transaction types without the need to support a mandatory hard fork of the core code.",
+    "notice": null,
+    "date_added": "2016-06-02T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3718": {
+    "urls": {
+      "website": [
+        "https://www.bittorrent.com/btt/"
+      ],
+      "technical_doc": [
+        "https://www.bittorrent.com/btt/btt-docs/BitTorrent_Token_Whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/BitTorrent"
+      ],
+      "reddit": [
+        "https://reddit.com/r/bittorrent"
+      ],
+      "message_board": [
+        "http://blog.bittorrent.com/",
+        "https://forum.bittorrent.com/"
+      ],
+      "announcement": [
+        "https://medium.com/bittorrent/bittorrent-foundation-unveils-more-details-regarding-bittorrent-btt-airdrops-for-tron-trx-8bbd194f8a87"
+      ],
+      "chat": [
+        "https://t.me/BTTBitTorrent"
+      ],
+      "explorer": [
+        "https://tronscan.org/#/token/1002000",
+        "https://trxplorer.io/token/1002000"
+      ],
+      "source_code": [
+        "https://github.com/bittorrent"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3718.png",
+    "id": 3718,
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "slug": "bittorrent",
+    "description": "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman. According to their website, BitTorrent (BTT) tokens can be bid in exchange for faster downloads or stored in a wallet built into the BitTorrent client.\r\n\r\nBoth BitTorrent and parent company TRON share a vision of a decentralized internet without barriers.",
+    "notice": null,
+    "date_added": "2019-01-31T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1958,
+      "name": "TRON",
+      "symbol": "TRX",
+      "slug": "tron",
+      "token_address": "1002000"
+    },
+    "category": "token"
+  },
+  "2682": {
+    "urls": {
+      "website": [
+        "https://holochain.org/"
+      ],
+      "technical_doc": [
+        "https://holo.host/whitepapers/"
+      ],
+      "twitter": [
+        "https://twitter.com/H_O_L_O_"
+      ],
+      "reddit": [
+        "https://reddit.com/r/holochain"
+      ],
+      "message_board": [
+        "https://medium.com/h-o-l-o"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2963267.0"
+      ],
+      "chat": [
+        "http://t.me/channelHolo"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+        "https://ethplorer.io/address/0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+      ],
+      "source_code": [
+        "https://github.com/holochain"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
+    "id": 2682,
+    "name": "Holo",
+    "symbol": "HOT",
+    "slug": "holo",
+    "description": "Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users. In Holochain, no true global consensus is maintained. Instead, each agent in the public blockchain maintains a private fork that is managed and stored in a limited way on the public blockchain with a distributed hash table. This enables every device on a network to function independently, and only requires the synchronization of data when necessary, or agreed upon by users. This could translate into higher scalability for dapps hosted on Holochain. The Holo ecosystem relies on hosts that provide processing and storage for distributed applications while earning redeemable credits. Holochain Dapps can be developed with JavaScript or Lisp, with support for front-end systems using CSS, HTML, and JavaScript.",
+    "notice": null,
+    "date_added": "2018-04-29T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+    },
+    "category": "token"
+  },
+  "3218": {
+    "urls": {
+      "website": [
+        "https://www.energi.world/"
+      ],
+      "technical_doc": [
+        "https://www.energi.world/whitepaper/"
+      ],
+      "twitter": [
+        "https://twitter.com/Energicrypto"
+      ],
+      "reddit": [
+        "https://reddit.com/r/energicryptocurrency"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=4912743"
+      ],
+      "chat": [
+        "https://discordapp.com/invite/sCtgNC3",
+        "https://t.me/energicrypto"
+      ],
+      "explorer": [
+        "https://explorer.energi.network/",
+        "https://explorer2.energi.network/#/",
+        "https://nrg.tokenview.com/en"
+      ],
+      "source_code": [
+        "https://github.com/energicryptocurrency"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3218.png",
+    "id": 3218,
+    "name": "Energi",
+    "symbol": "NRG",
+    "slug": "energi",
+    "description": "Launched in April 2018, Energi describes itself as a Proof of Stake cryptocurrency featuring decentralized governance, masternodes, and a treasury that funds a team of professionals. With a smart contract platform upgrade slated for Q4 2019, Energi 3.0 will leverage existing dApps written for Ethereum. Energi also purportedly features a Defense team of cybersecurity and investigative professionals that work with law enforcement to protect their userbase from hackers, and scammers. In the coming years, Energi seeks to retain thousands of full-time paid contributors and function as a global organization. Learn more at https://www.energi.world/",
+    "notice": null,
+    "date_added": "2018-08-23T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2099": {
+    "urls": {
+      "website": [
+        "https://www.icon.foundation/"
+      ],
+      "technical_doc": [
+        "http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/helloiconworld"
+      ],
+      "reddit": [
+        "https://reddit.com/r/helloicon"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2115503.0"
+      ],
+      "chat": [
+        "https://t.me/hello_iconworld"
+      ],
+      "explorer": [
+        "https://tracker.icon.foundation/"
+      ],
+      "source_code": [
+        "https://github.com/icon-project"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png",
+    "id": 2099,
+    "name": "ICON",
+    "symbol": "ICX",
+    "slug": "icon",
+    "description": "Lead by the Seoul-based ICONLOOP (formerly theloop), ICON (ICX) aspires to build a decentralized network that allows different blockchains to transact with one another. The project's goal is to unify the balkanized blockchain ecosystem through its protocol and community-building initiatives. Potential use cases for ICX include transactions involving securities, currencies, loans, intellectual property, and personal authentication.",
+    "notice": null,
+    "date_added": "2017-10-27T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "109": {
+    "urls": {
+      "website": [
+        "http://www.digibyte.io/"
+      ],
+      "technical_doc": [
+        "https://www.digibyte.io/digibyte-blockchain-faq"
+      ],
+      "twitter": [
+        "https://twitter.com/DigiByteCoin"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Digibyte"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=408268.0"
+      ],
+      "chat": [
+        "https://t.me/DigiByteCoin",
+        "https://t.me/DGBalerts"
+      ],
+      "explorer": [
+        "https://digiexplorer.info/",
+        "https://chainz.cryptoid.info/dgb/",
+        "https://altexplorer.co/coin/dgb/explorer",
+        "https://dgb.ccore.online/"
+      ],
+      "source_code": [
+        "https://github.com/DigiByte-Core"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
+    "id": 109,
+    "name": "DigiByte",
+    "symbol": "DGB",
+    "slug": "digibyte",
+    "description": "DigiByte (DGB) is a UTXO PoW based blockchain with a focus on cybersecurity, digiassets, payments, and secure communications technologies.The DigiByte blockchain was developed in 2013 and released in January 2014 by Jared Tate (Creator & Founder of DigiByte) with an open-source protocol. Although based on Bitcoin, adjustments in the code reportedly allow for improved functionality, including 15-second block time, real-time difficulty adjustment and improved security. DigiByte development has included DigiShield, MultiAlgo, MultiShield, SegWit, and Odocrypt. \r\n\r\nDigiByte claims to have never been funded through an ICO, presale, or token sale. DGB is the Digital Asset/ Cryptocurrency with a 1000:1 ratio to BTC that is being mined over 21 years (2014-2035) with a max supply of 21B in the year 2035. DigiAssets was designed to allow users to build on top of DigiByte as a secondary layer on top of the global DigiByte blockchain to enable the decentralized issuance of assets, tokens, smart contracts, and digital identity.\r\n\r\nDigiByte claims to have had 280,000 full node downloads since 2017. As of 21 August 2019. 12,000 nodes are reportedly active and the network is distributed by 5 parallel cryptographic hashing algorithms (PoW) which secure the network. DigiByte claims to have 15-second block timings. With DigiSpeed, DigiByte can reportedly scale onchain with 560 TPS now and aims to attain 280,000 TPS in 2035 with low fees.",
+    "notice": null,
+    "date_added": "2014-02-06T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2885": {
+    "urls": {
+      "website": [
+        "http://egretia.io/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/Egretia_io"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Egretia"
+      ],
+      "message_board": [
+        "http://blog.egretia.io/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3317184.0"
+      ],
+      "chat": [
+        "http://t.me/Egretia"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
+        "https://ethplorer.io/address/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2885.png",
+    "id": 2885,
+    "name": "Egretia",
+    "symbol": "EGT",
+    "slug": "egretia",
+    "description": "Egretia (EGT) is a cryptocurrency token and operates on the Ethereum platform. Egretia has a current supply of 8,000,000,000 with 4,216,854,525.754 in circulation. The last known price of Egretia is $0.023127 USD and is up 1.42% over the last 24 hours. It is currently trading on 25 active market(s) with $45,327,264.716 traded over the last 24 hours. More information can be found at http://egretia.io/.",
+    "notice": null,
+    "date_added": "2018-07-02T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x8e1b448ec7adfc7fa35fc2e885678bd323176e34"
+    },
+    "category": "token"
+  },
+  "1896": {
+    "urls": {
+      "website": [
+        "https://0x.org/"
+      ],
+      "technical_doc": [
+        "https://0xproject.com/pdfs/0x_white_paper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/0xproject"
+      ],
+      "reddit": [
+        "https://reddit.com/r/0xProject"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/ZRX",
+        "https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498"
+      ],
+      "source_code": [
+        "https://github.com/0xProject"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png",
+    "id": 1896,
+    "name": "0x",
+    "symbol": "ZRX",
+    "slug": "0x",
+    "description": "0x (ZRX) is a permissionless protocol that provides the infrastructure to facilitate the creation of decentralized exchanges on the Ethereum blockchain. The project employs off-chain transaction relayers and Ethereum based smart contracts to provide an open order book and decentralized exchange. The ZRX token functions as payment to relayers by the users of the protocol and a governance token for protocol upgrades.",
+    "notice": null,
+    "date_added": "2017-08-16T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+    },
+    "category": "token"
+  },
+  "463": {
+    "urls": {
+      "website": [
+        "https://bitshares.org"
+      ],
+      "technical_doc": [
+        "https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper"
+      ],
+      "twitter": [
+        "https://twitter.com/BitShares"
+      ],
+      "reddit": [
+        "https://reddit.com/r/bitshares"
+      ],
+      "message_board": [
+        "https://bitsharestalk.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1949828"
+      ],
+      "chat": [
+        "https://t.me/BitSharesDEX"
+      ],
+      "explorer": [
+        "http://cryptofresh.com/",
+        "https://bitsharescan.com/",
+        "http://bts.ai/"
+      ],
+      "source_code": [
+        "https://github.com/bitshares"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/463.png",
+    "id": 463,
+    "name": "BitShares",
+    "symbol": "BTS",
+    "slug": "bitshares",
+    "description": "Bitshares (BTS), formerly known as ProtoShares, is a peer-to-peer distributed ledger and network that can issue collateralized market-pegged smart coins known as bitAssets. For instance, it can issue crypto-based assets, denominated by “bitAsset”, that track real-world markets like the USD, such as the bitUSD. Each smart coin has at least 100% of its value backed by the BitShares’ native currency, the BTS, which can be converted at any time at an exchange rate set by a trustworthy price feed. Bitshares was created by Dan Larimer, the co-founder of EOS, Steemit, and Cryptonomex. BitShares also has its own decentralized exchange.",
+    "notice": null,
+    "date_added": "2014-07-21T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1903": {
+    "urls": {
+      "website": [
+        "https://h.cash/"
+      ],
+      "technical_doc": [
+        "https://h.cash/themes/en/images/Hcash+Whitepaper+V0.8.5.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/HcashOfficial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/hcash"
+      ],
+      "message_board": [
+        "https://medium.com/@media_30378",
+        "https://wiki.h.cash/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/HcashOfficialEnglish"
+      ],
+      "explorer": [
+        "https://hc-explorer.h.cash/explorer/"
+      ],
+      "source_code": [
+        "https://github.com/HcashOrg/hcd"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1903.png",
+    "id": 1903,
+    "name": "HyperCash",
+    "symbol": "HC",
+    "slug": "hypercash",
+    "description": "HyperCash (HC), formerly known as Hcash, was designed to facilitate value transfers across different blockchains. It supports zero-hash proofs, DAO governance, and quantum resistance. HyperCash offers two types of wallets: white and black. White addresses are publicly viewable, while black addresses will remain private. The use of zero-knowledge proofs masks the identity of the sender and receiver while verifying transactions. Hcash uses a hybrid blockchain/DAG network and a hybrid PoW/PoS consensus model for governance. ",
+    "notice": null,
+    "date_added": "2017-08-20T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2603": {
+    "urls": {
+      "website": [
+        "https://pundix.com/"
+      ],
+      "technical_doc": [
+        "https://pundix.com/pdf/PundiX_Whitepaper_EN_Ver.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/PundiXLabs"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://medium.com/pundix"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/pundix"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+        "https://ethplorer.io/address/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2603.png",
+    "id": 2603,
+    "name": "Pundi X",
+    "symbol": "NPXS",
+    "slug": "pundi-x",
+    "description": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike. By applying the technology to a series of real world use cases such as cards and the XPOS point-of-sale devices, the team has built products that could accept the NPXS token for goods and services. With the goals of supporting retail intelligence, marketing & loyalty programs as well as inventory & order management systems, the Pundi X Point-of-Sale device could help to support digital commerce worldwide.",
+    "notice": null,
+    "date_added": "2018-03-22T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+    },
+    "category": "token"
+  },
+  "1104": {
+    "urls": {
+      "website": [
+        "http://www.augur.net/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/AugurProject"
+      ],
+      "reddit": [
+        "https://reddit.com/r/augur"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862",
+        "https://ethplorer.io/address/0x1985365e9f78359a9b6ad760e32412f4a445e862"
+      ],
+      "source_code": [
+        "https://github.com/AugurProject"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png",
+    "id": 1104,
+    "name": "Augur",
+    "symbol": "REP",
+    "slug": "augur",
+    "description": "Augur (REP) is meant to harness the wisdom of the crowd through prediction markets on a protocol owned and operated by holders of the Ethereum-based Reputation token. In these markets users are said to be able to bet on the outcomes of events such as company performance, election results or even natural phenomena by purchasing shares that would either support or refute the proposed outcomes of such specified events. By design, the user-created markets could return fees to market participants while automating payouts using software meant to be fair, open to all, and completely decentralized.",
+    "notice": null,
+    "date_added": "2015-10-27T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x1985365e9f78359a9b6ad760e32412f4a445e862"
+    },
+    "category": "token"
+  },
+  "2874": {
+    "urls": {
+      "website": [
+        "https://www.aurorachain.io/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/AurorachainEN"
+      ],
+      "reddit": [
+        "https://reddit.com/r/AuroraOfficial"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=4437272.new#new"
+      ],
+      "chat": [
+        "https://t.me/AuroraOfficialEN"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a",
+        "https://ethplorer.io/address/0x9ab165d795019b6d8b3e971dda91071421305e5a"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2874.png",
+    "id": 2874,
+    "name": "Aurora",
+    "symbol": "AOA",
+    "slug": "aurora",
+    "description": "Aurora Chain (AOA) holds the mission of creating bright an colorful blockchain world with fast-working contracts that facilitate easy development of applications on the blockchain. The team strives to allow businesses from disparate industries to cooperate using the distribution of a fixed supply of the underlying currency AOA as a means of ensuring the speed and functionality of the consensus mechanism. As such, transactions may be realized quickly from delegated proof of stake voting equipped with byzantine fault tolerance to improve interactive consistency within the system.",
+    "notice": null,
+    "date_added": "2018-06-26T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x9ab165d795019b6d8b3e971dda91071421305e5a"
+    },
+    "category": "token"
+  },
+  "2405": {
+    "urls": {
+      "website": [
+        "http://iost.io/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/iostoken"
+      ],
+      "reddit": [
+        "https://reddit.com/r/IOStoken"
+      ],
+      "message_board": [
+        "https://medium.com/@iostoken"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/officialios"
+      ],
+      "explorer": [
+        "https://www.iostabc.com/"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png",
+    "id": 2405,
+    "name": "IOST",
+    "symbol": "IOST",
+    "slug": "iostoken",
+    "description": "The open-source IOST project is meant to meet the security and scalability needs of a decentralized economy by providing blockchain infrastructure that might serve as the architecture for the future of online services. Utilizing factors that include IOST token balances, reputation-based token balance, contributions to the network and user behaviors, their so-called “Proof of Believability” consensus algorithm was developed to ensure the security and efficiency of transactions on the network. The team at IOST recognizes that without sufficient scalability, multinational corporations may not be able to deploy blockchains to service their customers at the level expected today. As such, the teams at IOST propose the Internet of Services Token as a means to reach these ends.",
+    "notice": null,
+    "date_added": "2018-01-16T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "213": {
+    "urls": {
+      "website": [
+        "http://monacoin.org"
+      ],
+      "technical_doc": [
+        "https://monacoin.org/#about"
+      ],
+      "twitter": [],
+      "reddit": [
+        "https://reddit.com/r/monacoin"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=392436.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://mona.chainsight.info/",
+        "https://blockbook.electrum-mona.org/",
+        "https://mona.tokenview.com/",
+        "https://bchain.info/MONA/",
+        "https://chaintools.mona-coin.de/"
+      ],
+      "source_code": [
+        "https://github.com/monacoinproject/monacoin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/213.png",
+    "id": 213,
+    "name": "MonaCoin",
+    "symbol": "MONA",
+    "slug": "monacoin",
+    "description": "MonaCoin (MONA) is an open source peer-to-peer payment network. It was thrust into the limelight when it was featured on WBS TV Network Tokyo, which reported a man purchasing a plot of land in Nagano with MonaCoin. The idea of MonaCoin was conceived from a Japan-based bulletin board called 2-Channel (2?????) by a user who goes by the handle of 'Mr Watanabe'. ",
+    "notice": null,
+    "date_added": "2014-03-20T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3829": {
+    "urls": {
+      "website": [
+        "https://nash.io/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/nashsocial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Nash"
+      ],
+      "message_board": [
+        "https://medium.com/nashsocial",
+        "https://community.nash.io/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3017462.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://neotracker.io/contract/3a4acd3647086e7c44398aac0349802e6a171129/",
+        "https://scan.nel.group/nep5/0x3a4acd3647086e7c44398aac0349802e6a171129"
+      ],
+      "source_code": [
+        "https://github.com/nash-io"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3829.png",
+    "id": 3829,
+    "name": "Nash Exchange",
+    "symbol": "NEX",
+    "slug": "nash-exchange",
+    "description": "Nash aims to make decentralized finance fast, simple, and safe by enabling users to transfer assets securely without the need to trust intermediaries. It reportedly combines the security benefits of blockchain with the speed and functionality of traditional services. Its decentralized exchange is reportedly fast due to its proprietary matching engine.",
+    "notice": null,
+    "date_added": "2019-04-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1376,
+      "name": "NEO",
+      "symbol": "NEO",
+      "slug": "neo",
+      "token_address": "3a4acd3647086e7c44398aac0349802e6a171129"
+    },
+    "category": "token"
+  },
+  "1521": {
+    "urls": {
+      "website": [
+        "https://komodoplatform.com/"
+      ],
+      "technical_doc": [
+        "https://komodoplatform.com/whitepaper"
+      ],
+      "twitter": [
+        "https://twitter.com/KomodoPlatform"
+      ],
+      "reddit": [
+        "https://reddit.com/r/komodoplatform"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1605144.0"
+      ],
+      "chat": [
+        "https://discord.gg/ZSrn5sJ",
+        "https://telegram.me/KomodoPlatform_Official"
+      ],
+      "explorer": [
+        "https://kmdexplorer.io/",
+        "http://kmd.explorer.supernet.org/",
+        "https://kmd.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/KomodoPlatform"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1521.png",
+    "id": 1521,
+    "name": "Komodo",
+    "symbol": "KMD",
+    "slug": "komodo",
+    "description": "Komodo describes itself as an open, composable multi-chain platform. With blockchain development roots going back to 2014, Komodo is reportedly one of the pioneers of multi-chain architecture in the blockchain space. As of Aug 2019, Komodo focuses on providing business-friendly blockchain solutions that are secure, scalable, interoperable, and adaptable. Komodo's current technology suite, the Antara framework, offers tools for end-to-end blockchain development, including a customizable, application-specific Smart Chain complete with a library of built-in modules and an open API for building blockchain-based applications.",
+    "notice": null,
+    "date_added": "2017-02-05T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2308": {
+    "urls": {
+      "website": [
+        "http://www.makerdao.com/"
+      ],
+      "technical_doc": [
+        "https://makerdao.com/whitepaper/"
+      ],
+      "twitter": [
+        "https://twitter.com/makerDAO"
+      ],
+      "reddit": [
+        "https://reddit.com/r/makerDAO"
+      ],
+      "message_board": [
+        "https://medium.com/@MakerDAO"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://chat.makerdao.com/"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+        "https://ethplorer.io/address/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+      ],
+      "source_code": [
+        "https://github.com/makerdao/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2308.png",
+    "id": 2308,
+    "name": "Dai",
+    "symbol": "DAI",
+    "slug": "dai",
+    "description": "Dai (DAI) is a USD-pegged stablecoin built on the Ethereum blockchain, and has no centralized authority. Its $1 USD equivalent is maintained through automatic pricing mechanisms built into smart contracts. When Dai is worth more than $1, the smart contract pricing mechanisms works to decrease the price. Conversely, when Dai is worth below $1, the smart contract pricing mechanisms works to increase the price. Dai can be freely traded like any other ERC20 token, and anyone with an Ethereum wallet can own, accept, and transfer it without a middleman. ",
+    "notice": null,
+    "date_added": "2017-12-24T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+    },
+    "category": "token"
+  },
+  "3155": {
+    "urls": {
+      "website": [
+        "https://quant.network/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/quant_network"
+      ],
+      "reddit": [
+        "https://reddit.com/r/QuantNetwork"
+      ],
+      "message_board": [
+        "https://medium.com/@quant_network"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3200795.0"
+      ],
+      "chat": [
+        "https://t.me/QuantOverledger",
+        "https://t.me/quantnetworkannouncements"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+        "https://ethplorer.io/address/0x4a220e6096b25eadb88358cb44068a3248254675"
+      ],
+      "source_code": [
+        "https://github.com/quantnetwork/eth-contract-metadata"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "id": 3155,
+    "name": "Quant",
+    "symbol": "QNT",
+    "slug": "quant",
+    "description": "The Quant Network team developed Quant as a cryptocurrency token based on the Ethereum blockchain. The solutions offered by Quant include Overledger OS and GoVerify.\n\nAccording to the whitepaper, the initial goals of the Overledger project were to develop an interface to connect the world’s networks to multiple blockchains, bridge existing networks to new blockchains, and to develop a blockchain operating system with a protocol and platform that allows developers to create next-generation multi-chain applications.\n\nTheir proposition for GoVerify is to allow people to verify and check whether any emails, SMS, mail, or phone calls received appear as legitimate and actually from the stated sender.",
+    "notice": null,
+    "date_added": "2018-08-10T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+    },
+    "category": "token"
+  },
+  "291": {
+    "urls": {
+      "website": [
+        "https://safenetwork.tech/"
+      ],
+      "technical_doc": [
+        "https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md"
+      ],
+      "twitter": [
+        "https://twitter.com/maidsafe"
+      ],
+      "reddit": [
+        "https://reddit.com/r/safenetwork"
+      ],
+      "message_board": [
+        "https://safenetforum.org"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=579797.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "http://omniexplorer.info/asset/3"
+      ],
+      "source_code": [
+        "https://github.com/maidsafe"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/291.png",
+    "id": 291,
+    "name": "MaidSafeCoin",
+    "symbol": "MAID",
+    "slug": "maidsafecoin",
+    "description": "MaidSafeCoin (MAID) is the decentralized currency for the SAFE Network, a autonomous and decentralized data network that boasts extra hard disk space, processing power, and data connectivity for its users. The SAFE network is a sharing economy for digital resources, that seeks to “create a secure, autonomous, data-centric, peer-to-peer network as an alternative to the current server-centric model.” The network is comprised of two main users: “clients” who access the various features of the network, such as browsing, storing data, or transferring money, and “farmers” who look after the clients’ data until it’s needed, at which point they might receive a reward for their efforts.",
+    "notice": null,
+    "date_added": "2014-04-28T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 83,
+      "name": "Omni",
+      "symbol": "OMNI",
+      "slug": "omni",
+      "token_address": "3"
+    },
+    "category": "token"
+  },
+  "1042": {
+    "urls": {
+      "website": [
+        "https://sia.tech/"
+      ],
+      "technical_doc": [
+        "https://sia.tech/sia.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/SiaTechHQ"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Siacoin"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1060294.0"
+      ],
+      "chat": [
+        "https://discord.gg/sia"
+      ],
+      "explorer": [
+        "http://explore.sia.tech/",
+        "https://sc.tokenview.com/"
+      ],
+      "source_code": [
+        "https://gitlab.com/NebulousLabs"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png",
+    "id": 1042,
+    "name": "Siacoin",
+    "symbol": "SC",
+    "slug": "siacoin",
+    "description": "Siacoin (SC) aims to provide an open-source low-cost solution for cloud storage, offering encryption and distribution of files chosen for storage by users across a decentralized network of peers. User-controlled private keys give the assertion that no third parties should have access to or control over data stored on the network. As a result, the cloud storage marketplace made available to users of the Sia blockchain is meant to be highly redundant, completely private, and more affordable than many alternatives.",
+    "notice": null,
+    "date_added": "2015-08-26T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "693": {
+    "urls": {
+      "website": [
+        "http://vergecurrency.com/"
+      ],
+      "technical_doc": [
+        "https://github.com/vergecurrency/Verge-Blackpaper/blob/master/Verge-Anonymity-Centric-CryptoCurrency.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/vergecurrency"
+      ],
+      "reddit": [
+        "https://reddit.com/r/vergecurrency"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1365894.0"
+      ],
+      "chat": [
+        "https://t.me/VERGExvg",
+        "https://discord.gg/vergecurrency"
+      ],
+      "explorer": [
+        "https://verge-blockchain.info/",
+        "https://xvg.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/vergecurrency"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/693.png",
+    "id": 693,
+    "name": "Verge",
+    "symbol": "XVG",
+    "slug": "verge",
+    "description": "Created in 2014 under its original name of DogecoinDark, Verge (XVG) is an open-source privacy coin with a team of international developers. Verge uses the anonymity tool Tor and an anonymous network layer I2P to hide specific transactions’ IP addresses and locations. Transaction speed on Verge is estimated to be at 5 seconds due to the use of Simple Payment Verification (SPV). The Core QT wallet has built-in TOR integration and SSL encryption which obfuscates the IP addresses of users. The introduction of the Wraith Protocol upgrade enables users to send and receive payments privately across the Verge blockchain by enabling stealth addressing services. Verge users are reportedly able to switch between private and public ledgers on the Verge blockchain. Verge offers five different Proof-of-Work algorithms for mining - Lyra2rev2, Scrypt, X17, blake2s and myr-groestl.",
+    "notice": null,
+    "date_added": "2014-10-25T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3701": {
+    "urls": {
+      "website": [
+        "https://www.rifos.org/"
+      ],
+      "technical_doc": [
+        "https://docs.rifos.org/rif-whitepaper-en.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/rif_os"
+      ],
+      "reddit": [
+        "https://reddit.com/r/rifos"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/rif_os"
+      ],
+      "explorer": [
+        "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+      ],
+      "source_code": [
+        "https://github.com/riflabs"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
+    "id": 3701,
+    "name": "RIF Token",
+    "symbol": "RIF",
+    "slug": "rif-token",
+    "description": "RIF Token (RIF) is a cryptocurrency token and operates on the RSK Smart Bitcoin platform. RIF Token has a current supply of 1,000,000,000 with 477,980,956.857 in circulation. The last known price of RIF Token is $0.132902 USD and is up 3.43% over the last 24 hours. It is currently trading on 11 active market(s) with $2,847,940.886 traded over the last 24 hours. More information can be found at https://www.rifos.org/.",
+    "notice": null,
+    "date_added": "2019-01-16T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 3626,
+      "name": "RSK Smart Bitcoin",
+      "symbol": "RBTC",
+      "slug": "rsk-smart-bitcoin",
+      "token_address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+    },
+    "category": "token"
+  },
+  "2469": {
+    "urls": {
+      "website": [
+        "https://www.zilliqa.com/"
+      ],
+      "technical_doc": [
+        "https://docs.zilliqa.com/whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/zilliqa"
+      ],
+      "reddit": [
+        "https://reddit.com/r/zilliqa"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/zilliqachat"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+        "https://ethplorer.io/address/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+        "https://viewblock.io/zilliqa"
+      ],
+      "source_code": [
+        "https://github.com/Zilliqa/Zilliqa"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+    "id": 2469,
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "slug": "zilliqa",
+    "description": "Introduced in 2017, Zilliqa (ZIL) is centered around the idea of 'Sharding' and was designed to enhance the scalability of cryptocurrency networks such as Ethereum. Sharding is analogous to the concept of 'divide and conquer', where transactions are divided into smaller groups for miners to perform parallel transactional verification. The upshot of this is the ability to reach consensus more quickly, which would increase the number of transactions in a given period. According to the white paper, transactions speed could scale to approximately 1000x that of Ethereum's network. Zilliqa’s high throughput means that developers can focus on fleshing out their ideas rather than worrying about network congestion. ",
+    "notice": null,
+    "date_added": "2018-01-25T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1700": {
+    "urls": {
+      "website": [
+        "https://www.aeternity.com/"
+      ],
+      "technical_doc": [
+        "https://github.com/aeternity/protocol"
+      ],
+      "twitter": [
+        "https://twitter.com/aeternity"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Aeternity"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1733140.0"
+      ],
+      "chat": [
+        "https://telegram.me/aeternity"
+      ],
+      "explorer": [
+        "https://www.aeknow.org/"
+      ],
+      "source_code": [
+        "https://github.com/aeternity"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1700.png",
+    "id": 1700,
+    "name": "Aeternity",
+    "symbol": "AE",
+    "slug": "aeternity",
+    "description": "Aeternity (AE) is a blockchain platform that focuses on high bandwidth transacting, purely-functional smart contracts, and decentralized oracles. It was founded in 2017, and seeks to eliminate inefficiencies in the crypto market by increasing scalability of smart contracts and dApps, sharding, and off-chain contract execution. The Turing-complete smart contracts on the Aeternity chain allow for transaction execution without third parties or intermediaries. Aeternity also has state channels to enable off-chain smart contract settlements which only touch the blockchain should a disagreement in the contract arise, acting as a self-arbitrating crypto court. The Aeternity blockchain is also built upon state-of-the-art cryptographic data structures which give rise to robust efficiency, strong security, and the elimination “single point of failure” (SPOF) issues.",
+    "notice": null,
+    "date_added": "2017-06-01T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1455": {
+    "urls": {
+      "website": [
+        "https://golem.network/"
+      ],
+      "technical_doc": [
+        "https://golem.network/doc/Golemwhitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/golemproject"
+      ],
+      "reddit": [
+        "https://reddit.com/r/GolemProject"
+      ],
+      "message_board": [
+        "https://blog.golemproject.net/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1655002.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "https://etherscan.io/token/Golem",
+        "https://ethplorer.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+      ],
+      "source_code": [
+        "https://github.com/golemfactory/golem"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1455.png",
+    "id": 1455,
+    "name": "Golem",
+    "symbol": "GNT",
+    "slug": "golem-network-tokens",
+    "description": "Golem (GNT) is a peer-to-peer decentralized marketplace for computing power. The project aims to be an alternative to centralized cloud service providers with its lower price point and open-source community of developers. The Golem network pools global computing power and enables users to access these resources with GNT. Token holders pay resource owners to complete tasks requiring computational resources. The network is composed of the aggregated power of user devices. Golem is reportedly able to compute tasks that run the gamut from CGI rendering to machine learning. Transactions between participants are deemed to be safe because computations take place in sandbox environments that are sequestered from hosts’ systems.",
+    "notice": null,
+    "date_added": "2016-11-18T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+    },
+    "category": "token"
+  },
+  "1703": {
+    "urls": {
+      "website": [
+        "https://mvs.org/"
+      ],
+      "technical_doc": [
+        "http://newmetaverse.org/white-paper/Metaverse-white-paper-v2.1-EN.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/mvs_org"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Metaverse_Blockchain"
+      ],
+      "message_board": [
+        "http://blog.mvs.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2134505.0"
+      ],
+      "chat": [
+        "https://t.me/Metaverse_Blockchain",
+        "https://discordapp.com/invite/ubgMRts"
+      ],
+      "explorer": [
+        "https://explorer.mvs.org/",
+        "http://explorer.mvs.live/",
+        "http://mymvs.info/"
+      ],
+      "source_code": [
+        "http://github.com/mvs-org"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1703.png",
+    "id": 1703,
+    "name": "Metaverse ETP",
+    "symbol": "ETP",
+    "slug": "metaverse",
+    "description": "Metaverse bills itself as a public open-sourced blockchain project that seeks to provide a foundational infrastructure for social and enterprise needs. Its goal is to construct a universe where digital assets (Metaverse Smart Token and Metaverse Identifiable Token) and digital identities (Avatar) underpin asset transactions with the help of a value intermediary (Oracle).",
+    "notice": null,
+    "date_added": "2017-06-05T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1230": {
+    "urls": {
+      "website": [
+        "https://steem.com/"
+      ],
+      "technical_doc": [
+        "https://steem.io/SteemWhitePaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Steemit"
+      ],
+      "reddit": [
+        "https://reddit.com/r/steemit"
+      ],
+      "message_board": [
+        "https://steemit.com/@steemitblog"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1466593.0"
+      ],
+      "chat": [],
+      "explorer": [
+        "http://steemd.com/",
+        "https://steemdb.com/"
+      ],
+      "source_code": [
+        "https://github.com/steemit/steem"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1230.png",
+    "id": 1230,
+    "name": "Steem",
+    "symbol": "STEEM",
+    "slug": "steem",
+    "description": "Steem bills itself as 'a social blockchain that grows communities and makes revenue streams possible for users by rewarding them for sharing content'. It also powers real applications via social apps like Steemit. \n\nSteem started out as the cryptocurrency on the Steemit platform that rewards users for community building through the upvoting and the posting of meaningful content. Founded in 2016 by Ned Scott and BitShares creator Dan Larimer, the Steemit platform, built atop the Steem blockchain, is a social media network that seeks to be a source of community-driven curated content such as news, Q&A and job boards. The more value a particular piece of content is able to deliver across a greater number of people, the greater the reward received by the creator. Steemit users can cast votes to create a hierarchy of content. The higher the upvote count received on a content piece, the more Steem is earned by its publisher. Steemit’s meritocratic system also enables users that hold more currency to cast more meaningful, greater influence votes. ",
+    "notice": null,
+    "date_added": "2016-04-18T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1759": {
+    "urls": {
+      "website": [
+        "http://status.im/"
+      ],
+      "technical_doc": [
+        "https://status.im/whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/ethstatus"
+      ],
+      "reddit": [
+        "https://reddit.com/r/statusim"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://chat.status.im/#/register"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/StatusNetwork",
+        "https://ethplorer.io/address/0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+      ],
+      "source_code": [
+        "https://github.com/status-im"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png",
+    "id": 1759,
+    "name": "Status",
+    "symbol": "SNT",
+    "slug": "status",
+    "description": "Status (SNT) is an open source messaging platform and mobile interface built to interact with applications that run on the Ethereum network. The Status network token (SNT) is a utility token that fuels a decentralized push notification market, governance of the Status client, along with curation of user-generated content on the network. The team at Status hopes to promote adoption of the decentralized web while staying true to principles such as liberty, security, privacy, transparency, inclusivity and censorship resistance.",
+    "notice": null,
+    "date_added": "2017-06-28T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+    },
+    "category": "token"
+  },
+  "1320": {
+    "urls": {
+      "website": [
+        "https://www.jelurida.com/ardor"
+      ],
+      "technical_doc": [
+        "https://ardordocs.jelurida.com/Getting_started"
+      ],
+      "twitter": [
+        "https://twitter.com/ardorplatform"
+      ],
+      "reddit": [
+        "https://reddit.com/r/ardor"
+      ],
+      "message_board": [
+        "https://nxtforum.org"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1518497.0"
+      ],
+      "chat": [
+        "https://nxtplatform.org/slack/"
+      ],
+      "explorer": [
+        "https://ardor.tools/",
+        "https://ardorportal.org"
+      ],
+      "source_code": [
+        "https://bitbucket.org/Jelurida/ardor/src"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png",
+    "id": 1320,
+    "name": "Ardor",
+    "symbol": "ARDR",
+    "slug": "ardor",
+    "description": "Ardor (ARDR) is a blockchain-as-a-service (BaaS) provider that provides the blockchain infrastructure for businesses and institutions to set up their own chains without any need to code or secure it themselves. It has a parent-child chain architecture, comprised of a single chain that is attached with multiple transactional chains, so as to reduce blockchain bloat, provide multiple transactional tokens and host interconnected ‘child chain’ blockchains. Ardor also has a built-in exchange to facilitate the easy exchange of tokens of the various chains.",
+    "notice": null,
+    "date_added": "2016-07-23T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2539": {
+    "urls": {
+      "website": [
+        "https://renproject.io/"
+      ],
+      "technical_doc": [
+        "https://renproject.io/litepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/renprotocol"
+      ],
+      "reddit": [
+        "https://reddit.com/r/renproject"
+      ],
+      "message_board": [
+        "https://medium.com/renproject"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/renproject",
+        "https://t.me/renprojectann"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
+        "https://ethplorer.io/address/0x408e41876cccdc0f92210600ef50372656052a38"
+      ],
+      "source_code": [
+        "https://github.com/renproject"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png",
+    "id": 2539,
+    "name": "Ren",
+    "symbol": "REN",
+    "slug": "ren",
+    "description": "Ren is an open protocol meant to enable the permissionless and private transfer of value between any blockchain. Ren's core product, RenVM, is focused on bringing interoperability to decentralized finance (DeFi).",
+    "notice": null,
+    "date_added": "2018-02-21T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x408e41876cccdc0f92210600ef50372656052a38"
+    },
+    "category": "token"
+  },
+  "2840": {
+    "urls": {
+      "website": [
+        "https://quarkchain.io/"
+      ],
+      "technical_doc": [
+        "https://quarkchain.io/QUARK%20CHAIN%20Public%20Version%200.3.5.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Quark_Chain"
+      ],
+      "reddit": [
+        "https://reddit.com/r/quarkchainio"
+      ],
+      "message_board": [
+        "https://steemit.com/@quarkchain"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/quarkchainio"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+        "https://ethplorer.io/address/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+      ],
+      "source_code": [
+        "https://github.com/QuarkChain"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2840.png",
+    "id": 2840,
+    "name": "QuarkChain",
+    "symbol": "QKC",
+    "slug": "quarkchain",
+    "description": "QuarkChain (QKC) aims to provide a secure, decentralized, and scalable blockchain solution to deliver 1,000,000+ on-chain TPS (transactions per second). The main features of Quarkchain are its reshardable two-layered blockchain, collaborative mining, horizontal scalability, cross-shard transactions, and streamlined account management.",
+    "notice": null,
+    "date_added": "2018-06-04T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+    },
+    "category": "token"
+  },
+  "1776": {
+    "urls": {
+      "website": [
+        "https://crypto.com/"
+      ],
+      "technical_doc": [
+        "https://crypto.com/images/mco_whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/cryptocom"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Crypto_com"
+      ],
+      "message_board": [
+        "https://blog.crypto.com/",
+        "https://medium.com/@Crypto.com"
+      ],
+      "announcement": [
+        "https://t.me/CryptoComOfficialAnnouncements"
+      ],
+      "chat": [
+        "https://t.me/CryptoComOfficial",
+        "https://discord.gg/B6cZahJ"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/Monaco",
+        "https://ethplorer.io/address/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1776.png",
+    "id": 1776,
+    "name": "Crypto.com",
+    "symbol": "MCO",
+    "slug": "crypto-com",
+    "description": "Crypto.com was founded in 2016 with the goal of accelerating the world’s transition to cryptocurrency. Key products include: the Crypto.com Wallet & Card App, a place to buy, sell, and pay with crypto, the MCO Visa Card, a metal card with no annual fees, and the Crypto.com Chain, which reportedly enables users to pay and be paid in crypto, anywhere, for free. Crypto.com is headquartered in Hong Kong with a team size of 120+. For more information, please visit: www.crypto.com",
+    "notice": null,
+    "date_added": "2017-07-03T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+    },
+    "category": "token"
+  },
+  "1750": {
+    "urls": {
+      "website": [
+        "https://gxs.gxb.io/en/"
+      ],
+      "technical_doc": [
+        "https://static.gxb.io/files/GXChain_WhitePaper_v3.0_EN.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/GXChainGlobal"
+      ],
+      "reddit": [
+        "https://reddit.com/r/gxs"
+      ],
+      "message_board": [
+        "https://forum.gxb.io/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1813679.0"
+      ],
+      "chat": [
+        "https://t.me/GXChain_international"
+      ],
+      "explorer": [
+        "https://block.gxb.io/"
+      ],
+      "source_code": [
+        "https://github.com/gxchain"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1750.png",
+    "id": 1750,
+    "name": "GXChain",
+    "symbol": "GXC",
+    "slug": "gxchain",
+    "description": "GXChain bills itself as 'a blockchain for the global data economy, designed to build a trusted data internet of value'. Leveraging the DPoS-based Graphene as the underlying architecture, GXChain's functionality includes G-ID, GVM, BaaS and Blockcity, which reportedly streamlines application development. Blockcity , the GXChain-based DApp, reportedly has more than 2M verified users and provides data for other DApps and strategic partners. GXChain launched a decentralized data marketplace which reportedly serves hundreds of Chinese enterprises. The GXChain team launched its mainnet in June 2017.",
+    "notice": null,
+    "date_added": "2017-06-25T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3437": {
+    "urls": {
+      "website": [
+        "https://abbccoin.com/"
+      ],
+      "technical_doc": [
+        "https://abbccoin.com/whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/abbcfoundation"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/abbcfoundation"
+      ],
+      "explorer": [
+        "https://abbcblockexplorer.com/",
+        "https://abbcblockchainexplorer.com/"
+      ],
+      "source_code": [
+        "https://github.com/ABBCTEAM"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3437.png",
+    "id": 3437,
+    "name": "ABBC Coin",
+    "symbol": "ABBC",
+    "slug": "abbc-coin",
+    "description": "ABBC Coin (ABBC) is a cryptocurrency. Users are able to generate ABBC through the process of mining. ABBC Coin has a current supply of 1,002,169,590.011 with 554,307,761.97 in circulation. The last known price of ABBC Coin is $0.088307 USD and is up 7.82% over the last 24 hours. It is currently trading on 32 active market(s) with $38,032,200.645 traded over the last 24 hours. More information can be found at https://abbccoin.com/.",
+    "notice": null,
+    "date_added": "2018-10-12T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2130": {
+    "urls": {
+      "website": [
+        "https://enjincoin.io/"
+      ],
+      "technical_doc": [
+        "https://enjincoin.io/enjincoin_whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/enjin"
+      ],
+      "reddit": [
+        "https://reddit.com/r/EnjinCoin"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2042871.0"
+      ],
+      "chat": [
+        "https://t.me/enjin_coin"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+      ],
+      "source_code": [
+        "https://github.com/enjin/contracts"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
+    "id": 2130,
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "slug": "enjin-coin",
+    "description": "Since its founding in 2009, Enjin has launched a gaming community platform called the Enjin Network and has grown it to approximately 20+ million users. \r\n\r\nIn 2017 following an ICO that reportedly raised $18.9 million, Enjin has been building a suite of user-centric blockchain products that aims to enable anyone to create, manage, trade, store, explore, distribute, and integrate blockchain assets. \r\n\r\nThe Enjin ecosystem (comprising the Enjin Platform, Explorer, Wallet, Beam) aims to empower gamers with ownership of digital assets and enables game industry businesses to increase revenue. Enjin’s tools and services can also be used by companies seeking to create blockchain products or utilize tokenized digital assets as part of their acquisition, retention, engagement, and monetization strategies.\r\n\r\nThe Enjin ecosystem is fueled by Enjin Coin (ENJ), an Ethereum-based cryptocurrency used to directly back the value of blockchain assets. \r\n\r\nAccording to the team, there are currently millions of ENJ locked in blockchain-based digital assets. \r\n\r\nFor more information, please visit https://enjin.io.",
+    "notice": null,
+    "date_added": "2017-11-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+    },
+    "category": "token"
+  },
+  "1925": {
+    "urls": {
+      "website": [
+        "http://www.waltonchain.org/"
+      ],
+      "technical_doc": [
+        "https://www.waltonchain.org/templets/default/doc/Waltonchain-whitepaper_en_20180208.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Waltonchain"
+      ],
+      "reddit": [
+        "https://reddit.com/r/waltonchain"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2127069.0"
+      ],
+      "chat": [
+        "https://t.me/waltonchain_en"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+        "https://ethplorer.io/address/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1925.png",
+    "id": 1925,
+    "name": "Waltonchain",
+    "symbol": "WTC",
+    "slug": "waltonchain",
+    "description": "Waltonchain (WTC) is building an ecosystem that melds blockchain, RFID technology, and IoT (Internet of Things). The Walton team develops and produces Transaction ID-reading RFID chips, which can generate their own random ID hashes that are uploaded simultaneously to the blockchain via their RFID reader. This translates to enhanced operational efficiency, especially for supply chain use cases such high-end clothing identification, food & drug traceability, and logistics tracking. ",
+    "notice": null,
+    "date_added": "2017-08-27T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
+    },
+    "category": "token"
+  },
+  "1414": {
+    "urls": {
+      "website": [
+        "https://zcoin.io"
+      ],
+      "technical_doc": [
+        "https://zcoin.io/wp-content/uploads/2016/11/zerocoinwhitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/zcoinofficial"
+      ],
+      "reddit": [
+        "https://reddit.com/r/zcoin"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1638450"
+      ],
+      "chat": [
+        "https://discordapp.com/invite/4FjnQ2q"
+      ],
+      "explorer": [
+        "http://explorer.zcoin.io",
+        "https://chainz.cryptoid.info/xzc/",
+        "https://insight.zcoin.io/"
+      ],
+      "source_code": [
+        "https://github.com/zcoinofficial/zcoin/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1414.png",
+    "id": 1414,
+    "name": "Zcoin",
+    "symbol": "XZC",
+    "slug": "zcoin",
+    "description": "Zcoin (XZC) is an open-source privacy-focused cryptocurrency token that launched in Sep 2016. To enable privacy, Zcoin uses zero-knowledge proofs via the Zerocoin protocol. Zerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add cryptographic anonymity to Bitcoin transactions. With Zcoin’s Zerocoin feature, only the sender and receive would be able to ascertain the exchange of funds in a given transaction, as no transaction histories are linked to the actual coins. Zcoin operates a multi-node model where mining nodes verify blockchain transactions and Znodes store blockchain data.",
+    "notice": null,
+    "date_added": "2016-10-06T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2586": {
+    "urls": {
+      "website": [
+        "https://www.synthetix.io/"
+      ],
+      "technical_doc": [
+        "https://www.synthetix.io/uploads/synthetix_whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/synthetix_io"
+      ],
+      "reddit": [
+        "https://reddit.com/r/synthetix_io"
+      ],
+      "message_board": [
+        "https://blog.havven.io/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://discord.gg/AEdUHzt"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
+        "https://ethplorer.io/address/0xc011a72400e58ecd99ee497cf89e3775d4bd732f"
+      ],
+      "source_code": []
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+    "id": 2586,
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "slug": "synthetix-network-token",
+    "description": "Synthetix Network Token (SNX) is a cryptocurrency token and operates on the Ethereum platform. Synthetix Network Token has a current supply of 136,057,692.308 with 127,447,604.754 in circulation. The last known price of Synthetix Network Token is $0.371143 USD and is up 2.95% over the last 24 hours. It is currently trading on 9 active market(s) with $113,821.318 traded over the last 24 hours. More information can be found at https://www.synthetix.io/.",
+    "notice": null,
+    "date_added": "2018-03-14T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f"
+    },
+    "category": "token"
+  },
+  "3724": {
+    "urls": {
+      "website": [
+        "https://solve.care/"
+      ],
+      "technical_doc": [
+        "https://solve.care/wp-content/uploads/2018/09/lightpaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/solve_care"
+      ],
+      "reddit": [
+        "https://reddit.com/r/solvecare"
+      ],
+      "message_board": [
+        "https://medium.com/solve-care-foundation"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2757739.0"
+      ],
+      "chat": [
+        "https://t.me/SolveCare",
+        "https://open.kakao.com/o/gMPHMqN"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
+        "https://ethplorer.io/address/0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+      ],
+      "source_code": [
+        "https://github.com/SolveCare"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3724.png",
+    "id": 3724,
+    "name": "SOLVE",
+    "symbol": "SOLVE",
+    "slug": "solve",
+    "description": "Solve.Care is a healthcare IT company that builds blockchain platforms which the team believes may improve the way healthcare is delivered and managed. \r\n\r\nThe Solve.Care platform reportedly uses blockchain technology as the underlying distributed ledger for coordinating care, benefits and payments between all parties in the chain of healthcare: patients, doctors, pharmacies, laboratories, employers, insurers, and others.\r\n\r\nSOLVE tokens may be used to secure efficient and transparent healthcare administration around the world. The token supply is fixed and the price variable, as determined by market supply and demand. SOLVE token runs natively on the Ethereum blockchain and is designed to follow the ERC20 token standard.\r\n\r\nSOLVE utility tokens are the currency used for transactions on the platform. According to the foundation, they can be utilized to pay for Care Administration Network fees, establish Care.Wallets, purchase Care.Cards, and participate in Care.Marketplace services as well as pay for associated integration fees. In addition, SOLVE is reportedly used for the emission of Care.Coins and payments requiring Care.Coins.",
+    "notice": null,
+    "date_added": "2019-02-04T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+    },
+    "category": "token"
+  },
+  "2300": {
+    "urls": {
+      "website": [
+        "https://wax.io/"
+      ],
+      "technical_doc": [
+        "https://wax.io/documents/WAX_White_Paper.pdf?1514330404"
+      ],
+      "twitter": [
+        "https://twitter.com/WAX_io"
+      ],
+      "reddit": [
+        "https://reddit.com/r/WAX_io"
+      ],
+      "message_board": [
+        "https://medium.com/wax-io/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/wax_io",
+        "https://t.me/waxtokenannoucements"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+        "https://ethplorer.io/address/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+        "https://wax.eosx.io/account/eosio.token?partner=coinmarketcap"
+      ],
+      "source_code": [
+        "https://github.com/worldwide-asset-exchange"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png",
+    "id": 2300,
+    "name": "WAX",
+    "symbol": "WAX",
+    "slug": "wax",
+    "description": "WAX describes itself as a purpose-built blockchain and protocol token designed to make e-commerce transactions faster, easier, and safer for all participants. The WAX Blockchain uses Delegated Proof of Stake (DPoS) as its consensus mechanism and is meant to be fully backward compatible with EOS. The custom features and incentive mechanisms developed by WAX are designed to optimize the blockchain’s usability in e-commerce, and encourage voting on guilds and proposals.\r\n\r\nWAX claims to have created a suite of blockchain-based tools upon which dApps, marketplaces, and native non-fungible tokens (NFTs) are built. These tools would include services to support e-commerce operations such as an interactive block explorer, wallet, SSO and OAUTH, item creation, an RNG service, interactive item viewers, marketplace creation, and more. The resulting technology represents a blockchain architecture that is reportedly fast (500 millisecond block times), fee-less for customers, less expensive for developers, and leverages voting rewards to incentivize participation in the selection of block producers and proposals.",
+    "notice": null,
+    "date_added": "2017-12-21T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
+    },
+    "category": "token"
+  },
+  "3702": {
+    "urls": {
+      "website": [
+        "https://www.beam.mw/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/beamprivacy"
+      ],
+      "reddit": [
+        "https://reddit.com/r/beamprivacy"
+      ],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=5052151.80"
+      ],
+      "chat": [
+        "https://t.me/BeamPrivacy"
+      ],
+      "explorer": [
+        "https://explorer.beam.mw/",
+        "https://beamprivacy.community/explorer",
+        "https://beam.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/BeamMW/beam"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3702.png",
+    "id": 3702,
+    "name": "Beam",
+    "symbol": "BEAM",
+    "slug": "beam",
+    "description": "Beam is a cryptocurrency that demonstrates an emphasis on privacy and anonymity with Mimblewimble implementation.\r\n\r\nWithout address information stored on the blockchain and keeping transactions private by default, Beam is meant to give control over privacy to users and scalability in it’s compact design. Having no premine or ICO, Beam is backed by a Treasury and designated a non-profit foundation to govern the protocol.",
+    "notice": null,
+    "date_added": "2019-01-17T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2606": {
+    "urls": {
+      "website": [
+        "https://wanchain.org/"
+      ],
+      "technical_doc": [
+        "https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/wanchain_org"
+      ],
+      "reddit": [
+        "https://reddit.com/r/wanchain"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/WanchainANN",
+        "https://t.me/WanchainCHAT"
+      ],
+      "explorer": [
+        "https://explorer.wanchain.org/",
+        "https://wan.tokenview.com/en"
+      ],
+      "source_code": [
+        "https://github.com/wanchain"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2606.png",
+    "id": 2606,
+    "name": "Wanchain",
+    "symbol": "WAN",
+    "slug": "wanchain",
+    "description": "Wanchain (WAN) aims to build a 'super financial market' by connecting distinct digital assets. Its key features are cross-chain interoperability, privacy, and smart contract functionality. Wanchain connects and facilitates the transfer of value between different blockchains in a distributed fashion. Public or private blockchains can integrate with Wanchain to establish connections between different ledgers and perform inter-ledger asset transfers. The Wanchain ledger supports not only smart contracts, but also token exchange privacy protection. Use cases of the Wanchain include asset transfers, loan origination, and credit payments. Wanchain is part of the Enterprise Ethereum Alliance (EEA) and Blockchain Interoperability Alliance (BIA). The latter comprises ICON, Aion, and Wanchain and has the shared goal of promoting interconnectivity between isolated blockchain networks.",
+    "notice": null,
+    "date_added": "2018-03-23T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1343": {
+    "urls": {
+      "website": [
+        "http://stratisplatform.com/"
+      ],
+      "technical_doc": [
+        "https://stratisplatform.com/files/Stratis_Whitepaper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/stratisplatform"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Stratisplatform"
+      ],
+      "message_board": [
+        "https://www.stratistalk.org/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1512202.0"
+      ],
+      "chat": [
+        "https://t.me/StratisPlatform",
+        "https://discordapp.com/invite/9tDyfZs"
+      ],
+      "explorer": [
+        "https://chainz.cryptoid.info/strat/",
+        "http://cryptobe.com/chain/Stratis"
+      ],
+      "source_code": [
+        "https://github.com/stratisproject"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1343.png",
+    "id": 1343,
+    "name": "Stratis",
+    "symbol": "STRAT",
+    "slug": "stratis",
+    "description": "Stratis (STRAT) is a blockchain-as-a-service provider that supports C# and .NET development. Enterprises are able to build their own private blockchains, which can be integrated with the main Stratis blockchain.",
+    "notice": null,
+    "date_added": "2016-08-12T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2299": {
+    "urls": {
+      "website": [
+        "http://aelf.io/"
+      ],
+      "technical_doc": [
+        "https://grid.hoopox.com/%C3%A6lf_whitepaper_v1.2.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/aelfblockchain"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://medium.com/@aelfblockchain"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/aelfblockchain"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+        "https://ethplorer.io/address/0xbf2179859fc6d5bee9bf9158632dc51678a4100e"
+      ],
+      "source_code": [
+        "https://github.com/aelfProject"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png",
+    "id": 2299,
+    "name": "aelf",
+    "symbol": "ELF",
+    "slug": "aelf",
+    "description": "Aelf (ELF) is an enterprise-focused blockchain platform powered by cloud computing. Leveraging cloud nodes and parallel processing, Aelf is reportedly able to achieve secure transactions at scale for commercial use cases. Aelf was developed by Ma Haobao, who is also the CEO of Hoopox. The team is backed by the likes of Michael Arrington (CEO of TechCrunch) and the founding partner of FBG Capital. Aelf is working with the Innovation Alliance to drive blockchain adoption. Aelf aims to enhance the ecosystem by providing a template and infrastructure for interaction between various sidechains.",
+    "notice": null,
+    "date_added": "2017-12-21T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e"
+    },
+    "category": "token"
+  },
+  "2492": {
+    "urls": {
+      "website": [
+        "https://www.elastos.org/"
+      ],
+      "technical_doc": [
+        "https://www.elastos.org/downloads/elastos_whitepaper_en.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/Elastos_org"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Elastos"
+      ],
+      "message_board": [],
+      "announcement": [],
+      "chat": [
+        "https://t.me/elastosgroup",
+        "https://elastos.slack.com/"
+      ],
+      "explorer": [
+        "https://blockchain.elastos.org/"
+      ],
+      "source_code": [
+        "https://github.com/elastos"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png",
+    "id": 2492,
+    "name": "Elastos",
+    "symbol": "ELA",
+    "slug": "elastos",
+    "description": "Elastos (ELA) bills itself as the 'first completely safe and decentralized infrastructure for the internet'. Its vision is to create a blockchain-powered decentralized internet that enables digital rights and secure transactions. Elastos uses the Internet as the base-layer infrastructure and separates network communications from application computing. It prohibits apps from directly accessing the network so as to prevent malicious attacks. Elastos is merged mined with Bitcoin to optimize energy efficiency and leverage the security of the Bitcoin network for Elastos applications. Sidechains are also included as an additional layer of security.",
+    "notice": null,
+    "date_added": "2018-01-31T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "3709": {
+    "urls": {
+      "website": [
+        "https://grin-tech.org/"
+      ],
+      "technical_doc": [
+        "https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt"
+      ],
+      "twitter": [
+        "https://twitter.com/grinMW"
+      ],
+      "reddit": [],
+      "message_board": [
+        "https://www.grin-forum.org/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://gitter.im/grin_community/Lobby",
+        "https://discord.gg/Z3sEfEU"
+      ],
+      "explorer": [
+        "https://grinexplorer.net/",
+        "https://grin.blockscan.com/",
+        "https://grinscan.net/"
+      ],
+      "source_code": [
+        "https://github.com/mimblewimble/grin"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3709.png",
+    "id": 3709,
+    "name": "Grin",
+    "symbol": "GRIN",
+    "slug": "grin",
+    "description": "Launched on January 15th, 2019, Grin is a cryptocurrency focused on privacy without censorship in its implementation of Mimblewimble. According to their website, the developers want Grin to be usable by everyone regardless of borders, culture, skills or access. Without address information or amounts stored on the blockchain, the chain is meant to be lean and scalable. Grin was launched without a premine, ICO, or founders rewards and relies on donations to support the long-term development of the project.",
+    "notice": null,
+    "date_added": "2019-01-27T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2694": {
+    "urls": {
+      "website": [
+        "http://nexo.io"
+      ],
+      "technical_doc": [
+        "https://nexo.io/assets/downloads/Nexo-Whitepaper.pdf?=a"
+      ],
+      "twitter": [
+        "https://twitter.com/NexoFinance"
+      ],
+      "reddit": [
+        "https://reddit.com/r/nexo"
+      ],
+      "message_board": [
+        "https://medium.com/nexo"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/nexofinance"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+        "https://ethplorer.io/address/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+      ],
+      "source_code": [
+        "https://github.com/nexofinance/NEXO-Token/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+    "id": 2694,
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "slug": "nexo",
+    "description": "NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio. NEXO reportedly provides regular passive income to token holders in the form of 30% from the company’s profits. The first dividend payout to NEXO Token Holders in December of 2018 was reportedly for $912,071.00. The token also offers discounted interest rates (-50%) on Nexo’s Instant Loans. The NEXO Token can also be used as collateral on the platform (https://nexo.io) in addition to BTC, ETH, XRP, LTC, NEXO, BNB and several major stablecoins.",
+    "notice": null,
+    "date_added": "2018-05-01T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+    },
+    "category": "token"
+  },
+  "2900": {
+    "urls": {
+      "website": [
+        "https://projectpai.com/"
+      ],
+      "technical_doc": [],
+      "twitter": [
+        "https://twitter.com/ProjectPai"
+      ],
+      "reddit": [
+        "https://reddit.com/r/ProjectPai"
+      ],
+      "message_board": [
+        "https://medium.com/project-pai",
+        "https://www.paiforum.com/"
+      ],
+      "announcement": [],
+      "chat": [
+        "https://t.me/projectpai",
+        "https://discord.gg/YP74pnw"
+      ],
+      "explorer": [
+        "https://paichain.info/"
+      ],
+      "source_code": [
+        "https://www.github.com/projectpai/"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2900.png",
+    "id": 2900,
+    "name": "Project Pai",
+    "symbol": "PAI",
+    "slug": "project-pai",
+    "description": "Project Pai (PAI) is a cryptocurrency. Project Pai has a current supply of 1,618,050,000 with 1,451,234,497 in circulation. The last known price of Project Pai is $0.024649 USD and is up 1.64% over the last 24 hours. It is currently trading on 17 active market(s) with $652,701.643 traded over the last 24 hours. More information can be found at https://projectpai.com/.",
+    "notice": null,
+    "date_added": "2018-07-05T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "2137": {
+    "urls": {
+      "website": [
+        "http://electroneum.com/"
+      ],
+      "technical_doc": [
+        "http://electroneum.com/overview-white-paper.pdf"
+      ],
+      "twitter": [
+        "https://twitter.com/electroneum"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Electroneum"
+      ],
+      "message_board": [
+        "https://electroneum.com/blog/",
+        "https://community.electroneum.com/"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2353282.0"
+      ],
+      "chat": [
+        "https://t.me/joinchat/DxoSakHOdk5mqsE-LelfVg"
+      ],
+      "explorer": [
+        "https://blockexplorer.electroneum.com/"
+      ],
+      "source_code": [
+        "https://github.com/electroneum"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2137.png",
+    "id": 2137,
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "slug": "electroneum",
+    "description": "Electroneum (ETN) is a cryptocurrency that launched in 2017 with its own blockchain developed on the explicit intention of gaining mass adoption by targeting mobile audiences and smart phone users. Offering to users dedicated mobile mining applications available in many languages to anyone with a typical handheld smart device, this project has shown an effort to make it so those who wish to become involved in the revolutionary technology may do so with relative ease and see results in the form of small amounts of ETN each day for their participation. With the idea that access to the technology underpinning Bitcoin could be made simpler for today’s global economies, the teams behind Elecroneum genuinely aim to make their blockchain and cryptocurrency readily available to the ordinary mobile user and to spur rapid viral growth extending credit to their actively engaged community.",
+    "notice": null,
+    "date_added": "2017-11-02T00:00:00.000Z",
+    "tags": [
+      "mineable"
+    ],
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  },
+  "1681": {
+    "urls": {
+      "website": [
+        "http://en.prizm.club/"
+      ],
+      "technical_doc": [
+        "http://prizm.club/en/whitepaper/"
+      ],
+      "twitter": [
+        "https://twitter.com/PRIZM_eng"
+      ],
+      "reddit": [],
+      "message_board": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1879146.0"
+      ],
+      "chat": [
+        "https://t.me/PRIZMclub"
+      ],
+      "explorer": [
+        "http://blockchain.prizm.space/"
+      ],
+      "source_code": [
+        "https://github.com/prizmspace/PrizmCore"
+      ]
+    },
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1681.png",
+    "id": 1681,
+    "name": "PRIZM",
+    "symbol": "PZM",
+    "slug": "prizm",
+    "description": "PRIZM (PZM) is a cryptocurrency. PRIZM has a current supply of 98,207,374.18. The last known price of PRIZM is $0.351769 USD and is up 2.04% over the last 24 hours. It is currently trading on 7 active market(s) with $99,574.77 traded over the last 24 hours. More information can be found at http://en.prizm.club/.",
+    "notice": null,
+    "date_added": "2017-05-19T00:00:00.000Z",
+    "tags": null,
+    "date_launched": null,
+    "platform": null,
+    "category": "coin"
+  }
+}

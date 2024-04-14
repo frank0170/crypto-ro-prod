@@ -229,6 +229,24 @@ export const homeStyles = StyleSheet.create({
         fontStyle: "normal",
         fontWeight: 500,
       },
+
+      categoryGreen: {
+        color: "#1AB664",
+        fontSize: 12,
+        fontStyle: "normal",
+        fontWeight: 500,
+        lineHeight: "170%",
+        letterSpacing: 0.3,
+      },
+
+      categoryRed: {
+        color: "#E33434",
+        fontSize: 12,
+        fontStyle: "normal",
+        fontWeight: 500,
+        lineHeight: "170%",
+        letterSpacing: 0.3,
+      },
     },
   },
 });
